@@ -1,8 +1,8 @@
 import pandas as pd
 
-# df = pd.read_csv('data/data1.csv') # читаємо датафрейм з файлу
+df = pd.read_csv('data/data1.csv') # читаємо датафрейм з файлу
 
-# print(df.info()) # витягуємо інформацію про датафрейм
+print(df.info()) # витягуємо інформацію про датафрейм
 
 
 manual_df = pd.DataFrame([
