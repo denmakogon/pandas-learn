@@ -1,0 +1,800 @@
+﻿Address,City,CustomerID,CustomerFirstName,CustomerLastName,SquareFootage,SquareMeters,Acreage,AskingPrice,SalePrice,SaleDate
+48023 Pearl Street,"Louieville, KY",785,ryland,copeland,"1,438",134,0.3,206519.46,165339.48,2/9/2020
+73842 Hartford Road,"Louieville, KY",418,carly,ray,"1,116",104,0.8,204486.93,170153.57,10/10/2020
+72026 Franklin Court,"Richmond, KY",158,anderson,hutchinson,"2,471",230,0.3,385942.45,367262.84,2/12/2020
+12946 Cypress Court,"Louieville, KY",409,anderson,vang,"2,614",243,0.6,335311.31,303926.17,2/23/2020
+12033 Warren Street,"St. Matthews, KY",392,mohamed,owen,"2,752",256,0.1,404719.17,334581.34,4/17/2020
+96422 6th Street West,"Frankfort, KY",710,efrain,mason,"2,030",189,0.1,284708.28,256265.93,11/15/2020
+78793 Marshall Street,"Covington, KY",450,nadia,stewart,"2,923",272,0.7,367653.58,296071.43,2/28/2020
+36776 Atlantic Avenue,"Louieville, KY",208,triston,copeland,"5,175",481,0.6,615556.43,591980.62,8/3/2020
+79180 Sherwood Drive,"Covington, KY",175,skyler,combs,"1,902",177,0.4,279883.34,226229.7,9/5/2020
+93402 Catherine Street,"Jeffersontown, KY",517,thalia,munoz,"2,596",241,0.7,425316.15,392439.21,11/10/2020
+19724 Lexington Court,"Louieville, KY",507,nadia,mora,"1,678",156,0.5,234716.31,194908.42,9/11/2020
+82866 Heather Court,"Louieville, KY",209,anderson,briggs,"2,433",226,0.4,368956.17,345933.3,12/21/2020
+72481 Cardinal Drive,"Covington, KY",148,ryland,skinner,"1,256",117,0.7,199055.34,170948.73,9/20/2020
+12113 3rd Street East,"Lexington, KY",114,esperanza,mcdonald,"2,128",198,0.5,265276.8,227076.94,8/29/2020
+90548 7th Avenue,"Jeffersontown, KY",293,skyler,munoz,"9,528",885,0.6,1203374.67,968235.26,5/27/2020
+26986 York Street,"Florence, KY",143,mohamed,mason,"2,299",214,0.5,345198.98,336776.13,1/21/2020
+48929 Fawn Lane,"St. Matthews, KY",376,leandro,hodge,"1,175",109,0.7,213791.96,200600.99,4/18/2020
+80164 Dogwood Lane,"Jeffersontown, KY",402,jaliyah,lucero,"2,750",255,0.9,377296.38,372693.36,4/28/2020
+46152 Park Avenue,"Georgetown, KY",117,reid,hodge,"1,382",128,0.3,203786.68,196552.25,12/6/2020
+26450 1st Street,"Florence, KY",434,abram,bernard,"1,025",95,1,215401.22,207905.26,1/8/2020
+85246 Roberts Road,"Lexington, KY",714,kamari,casey,"1,931",179,0.5,294003.67,284889.56,9/8/2020
+67824 Lake Avenue,"Georgetown, KY",421,leandro,mason,"1,520",141,0.9,275084.16,234069.11,4/29/2020
+76285 Delaware Avenue,"Erlanger, KY",182,efrain,mora,"1,710",159,0.9,225630.9,220057.81,7/13/2020
+77970 Street Road,"Louieville, KY",491,dakota,casey,"2,112",196,0.1,306971.9,246651.92,3/13/2020
+28310 Lafayette Street,"Jeffersontown, KY",451,laila,coleman,"2,123",197,0.5,324349.09,288735.56,9/30/2020
+36821 Somerset Drive,"Lexington, KY",516,skyler,stevenson,"1,106",103,0.9,183841.33,176800.21,8/25/2020
+26922 Broad Street,"St. Matthews, KY",36,jaliyah,stewart,"3,292",306,0.7,499798.63,434874.79,8/29/2020
+75729 Glenwood Drive,"St. Matthews, KY",506,savion,mason,"2,717",252,0.8,348532.8,305210.17,3/28/2020
+72093 Canal Street,"Jeffersontown, KY",161,esperanza,carrillo,"4,117",382,0.5,561036.81,480808.54,4/18/2020
+94496 Route 32,"St. Matthews, KY",646,anderson,petersen,"1,123",104,0.6,203234.51,168420.44,3/3/2020
+67966 Main Street North,"Louieville, KY",51,savion,peters,"9,938",923,0.8,1044091.92,979567.04,5/8/2020
+29269 6th Street,"Louieville, KY",99,reid,banks,"1,238",115,0.5,200375.95,169498.01,8/1/2020
+92734 Willow Drive,"Florence, KY",432,samara,peters,"2,881",268,0.3,348404.38,296317.92,7/27/2020
+10965 Oak Street,"St. Matthews, KY",554,denisse,casey,"2,833",263,0.5,330672.56,290462.78,8/28/2020
+22428 Durham Court,"Jeffersontown, KY",556,mekhi,mora,"2,126",198,0.2,299930.87,269667.85,1/26/2020
+77445 Cedar Court,"Jeffersontown, KY",79,shyanne,hutchinson,"1,652",153,0.6,206772.66,179954.24,10/2/2020
+16491 Primrose Lane,"Florence, KY",201,savion,lucero,"1,778",165,0.2,256211.77,228925.22,2/23/2020
+28939 Elizabeth Street,"Florence, KY",743,beckham,mason,"2,622",244,6.8,722776.45,588340.03,3/26/2020
+78335 Ashley Court,"Florence, KY",587,kamari,ray,"2,275",211,0.6,380368.18,314488.41,4/15/2020
+72588 Country Club Road,"Jeffersontown, KY",753,laila,skinner,"9,922",922,0.8,1325395.38,1245739.12,12/23/2020
+69911 Aspen Court,"Georgetown, KY",637,efrain,george,"3,195",297,0.9,510620.03,415236.21,2/27/2020
+17484 Edgewood Road,"Louieville, KY",591,kamari,copeland,"6,790",631,0.6,863190.19,724130.25,11/18/2020
+95923 Mulberry Court,"Richmond, KY",697,josue,casey,"1,513",141,0.1,183558.28,174215.16,1/5/2020
+87356 8th Street,"St. Matthews, KY",580,pamela,munoz,"2,891",269,0.9,430456.94,415347.9,4/9/2020
+53395 Bridle Court,"Erlanger, KY",306,leandro,munoz,"2,922",271,0.6,363070.9,328506.55,9/8/2020
+22138 Liberty Street,"Lexington, KY",559,beckham,hanson,"2,685",249,8.9,867125.43,784488.37,9/22/2020
+89953 Garden Street,"Richmond, KY",408,anderson,lucero,"1,519",141,0.8,235031.03,220036.05,8/17/2020
+99092 Highland Avenue,"Erlanger, KY",781,skyler,coleman,"1,643",153,0.3,190489.55,155877.6,3/20/2020
+24680 Pleasant Street,"Richmond, KY",694,mekhi,hodge,"1,781",165,1,271825,248828.6,8/16/2020
+86859 Linden Avenue,"Lexington, KY",166,leandro,george,"1,429",133,0.9,226285.8,218297.91,10/22/2020
+98749 Jefferson Court,"Florence, KY",235,kamari,roy,"1,541",143,10,781520.48,649677.97,5/21/2020
+51378 East Street,"St. Matthews, KY",413,jaliyah,owen,"2,724",253,0.4,352280.77,307752.48,7/22/2020
+76755 Church Street,"Louieville, KY",150,esperanza,vincent,"2,013",187,0.9,280808.66,253149.01,10/21/2020
+14614 Sycamore Street,"Frankfort, KY",713,thalia,hutchinson,"1,714",159,0.9,219111.1,190626.66,3/5/2020
+34042 Canterbury Road,"Covington, KY",271,carly,coleman,"1,407",131,1,222006.98,214969.36,8/13/2020
+50203 Strawberry Lane,"Lexington, KY",50,anderson,stewart,"1,964",182,0.4,292900.14,263844.45,7/5/2020
+64105 Clinton Street,"Nicholasville, KY",251,beckham,hodge,"7,485",695,6.2,1099477.49,1081116.21,10/16/2020
+18881 West Avenue,"Lexington, KY",178,laila,gibbs,"1,219",113,0.6,192930.3,158067.79,7/12/2020
+90586 George Street,"Jeffersontown, KY",600,laila,banks,"1,158",108,0.5,212532.16,203010.72,1/1/2020
+40086 2nd Street East,"Covington, KY",310,samara,bernard,"2,896",269,0.3,331103.09,312031.56,8/3/2020
+31965 Church Street South,"Florence, KY",690,abram,hodge,"2,426",225,0.8,400924.49,325510.59,10/19/2020
+89007 Cooper Street,"Louieville, KY",346,dakota,ray,"1,983",184,0.8,320257.2,274908.78,3/17/2020
+28679 Circle Drive,"St. Matthews, KY",121,anderson,roy,"1,019",95,0.4,151545.61,144726.06,8/17/2020
+64661 5th Street North,"Lexington, KY",470,dakota,combs,"2,475",230,0.6,366559.18,299222.26,11/10/2020
+83221 Old York Road,"Richmond, KY",531,shyanne,combs,"1,409",131,0.1,204933.77,173251.01,10/28/2020
+21673 Holly Court,"Louieville, KY",468,anderson,galloway,"2,693",250,0.1,331282.14,274831.66,9/1/2020
+15096 Crescent Street,"Jeffersontown, KY",706,skyler,gibbs,"2,234",208,0.2,235735.01,201482.71,10/18/2020
+85888 Summit Street,"Covington, KY",132,denisse,briggs,"1,046",97,3,311965.71,286914.87,4/19/2020
+75510 Hawthorne Avenue,"Jeffersontown, KY",445,fisher,mcdonald,"1,444",134,19.9,1355739.21,1151971.61,10/23/2020
+79626 North Street,"Lexington, KY",700,dax,vang,"2,944",274,0.4,426052.2,384810.35,2/21/2020
+94469 Arch Street,"Jeffersontown, KY",588,ryland,mcdonald,"2,563",238,0.7,321969.92,263950.94,11/13/2020
+76569 Parker Street,"Lexington, KY",320,mohamed,carrillo,"2,522",234,0.2,311145.12,255947.98,3/16/2020
+84136 Cherry Street,"Jeffersontown, KY",604,efrain,stevenson,"3,770",350,0.3,498865.01,449876.47,5/23/2020
+19023 John Street,"Florence, KY",655,josue,hutchinson,"1,771",165,0.6,302289.44,265077.61,5/16/2020
+46755 Ivy Court,"Covington, KY",638,shyanne,peters,"2,914",271,11.4,1300814.56,1179188.39,8/3/2020
+77891 Green Street,"Louieville, KY",672,josue,stewart,"2,152",200,0.2,319177.44,309634.03,5/23/2020
+26747 Oxford Road,"Georgetown, KY",435,laila,bernard,"2,054",191,0.9,293308.88,268612.27,4/22/2020
+99124 Euclid Avenue,"Nicholasville, KY",34,jaliyah,mora,"2,186",203,0.3,240193.16,236878.49,1/31/2020
+62995 York Road,"Lexington, KY",767,brylee,munoz,"2,569",239,0.8,358786.73,322441.64,8/1/2020
+93603 Cedar Street,"Florence, KY",797,efrain,stewart,"1,835",170,0.2,201286.42,179789.03,3/28/2020
+97829 4th Street South,"Georgetown, KY",653,esperanza,banks,"2,260",210,0.5,369956.85,338510.52,11/28/2020
+28288 8th Avenue,"Florence, KY",440,mohamed,hodge,"1,990",185,0.7,255502.98,230744.74,4/3/2020
+64260 Jones Street,"Louieville, KY",544,taniya,mason,"1,871",174,0.3,289159.33,253563.82,7/9/2020
+48895 Surrey Lane,"Covington, KY",12,fisher,combs,"1,787",166,0.5,298126.79,252453.77,2/7/2020
+23305 12th Street East,"Nicholasville, KY",373,salma,petersen,"1,003",93,0.6,137252.5,134603.53,7/10/2020
+21774 Rosewood Drive,"Louieville, KY",295,brylee,mason,"2,639",245,0.6,357033.15,337289.22,4/18/2020
+71135 Locust Lane,"Covington, KY",632,esperanza,skinner,"1,615",150,0.5,200988.96,169011.62,1/10/2020
+20192 Park Street,"Lexington, KY",411,carly,mcdonald,"2,372",220,0.4,369378.35,356523.98,5/29/2020
+66160 Ridge Road,"Louieville, KY",485,abram,mason,"1,621",151,27.9,2445852.3,2192217.42,11/27/2020
+44906 Oxford Court,"Florence, KY",313,dax,munoz,"2,754",256,0.3,345803.04,325919.37,1/31/2020
+33007 School Street,"Louieville, KY",214,nadia,gibbs,"1,463",136,1,260573.37,246762.98,7/7/2020
+59434 Hillside Drive,"Florence, KY",224,ryland,stevenson,"8,009",744,25.9,2989060.47,2541897.02,6/11/2020
+93066 Union Street,"Richmond, KY",597,mohamed,banks,"2,756",256,0.5,334796.04,310623.77,10/16/2020
+29827 Laurel Street,"Georgetown, KY",136,laila,owen,"2,139",199,0.2,235844.04,219429.3,6/22/2020
+70197 Grove Avenue,"Georgetown, KY",65,reid,galloway,"2,800",260,0.5,454562.43,452744.18,5/8/2020
+30641 Inverness Drive,"Richmond, KY",185,pamela,casey,"9,016",838,0.3,970620.8,862784.83,4/17/2020
+22048 White Street,"Georgetown, KY",242,leandro,skinner,"2,466",229,0.2,387808.05,347941.38,2/27/2020
+17370 Fulton Street,"Jeffersontown, KY",617,dakota,george,"2,131",198,0.2,328867.33,303149.9,6/4/2020
+24804 Fairview Road,"Jeffersontown, KY",353,ryland,hodge,"1,494",139,1,276696.01,225064.53,11/7/2020
+19600 Victoria Court,"Frankfort, KY",298,reid,munoz,"2,236",208,0.4,325551.4,293159.04,7/10/2020
+85256 3rd Street North,"Richmond, KY",248,esperanza,lucero,"1,738",161,0.3,238996.23,224393.56,4/3/2020
+22461 Grant Street,"Covington, KY",23,denisse,mora,"1,916",178,0.9,354041.97,345792.79,2/25/2020
+98357 Hillcrest Avenue,"Florence, KY",171,ryland,mason,"1,928",179,0.2,273503.4,235623.18,9/25/2020
+49505 Howard Street,"Erlanger, KY",110,kamari,banks,"4,825",448,0.4,528084.74,492227.78,6/10/2020
+82652 Essex Court,"Louieville, KY",74,mekhi,lucero,"1,768",164,15.5,1285035.17,1047046.66,6/25/2020
+92380 Willow Street,"Jeffersontown, KY",369,ryland,briggs,"1,872",174,9.4,712019.04,706251.69,3/28/2020
+67933 Route 11,"Jeffersontown, KY",677,savion,gibbs,"1,511",140,0.2,231620.44,224833.96,1/13/2020
+67733 Route 41,"Richmond, KY",703,kamari,mora,"1,326",123,0.9,265226.07,236369.47,3/9/2020
+38163 Mechanic Street,"Florence, KY",419,josue,stevenson,"2,642",245,0.2,330022.43,302003.53,7/31/2020
+64073 4th Street North,"Erlanger, KY",779,salma,casey,"1,989",185,0.4,284424.97,263661.95,9/27/2020
+89108 5th Street West,"Covington, KY",262,dakota,hanson,"1,277",119,0.4,218169.88,188106.07,11/13/2020
+43537 Hillside Avenue,"Jeffersontown, KY",381,skyler,carrillo,"2,271",211,12.9,961740.81,930676.58,2/10/2020
+49365 Hamilton Street,"Louieville, KY",523,anderson,carrillo,"1,086",101,0.2,133570.94,133477.44,6/30/2020
+64103 Overlook Circle,"Covington, KY",17,carly,stevenson,"1,927",179,0.2,303579.32,257678.13,9/19/2020
+78079 Buttonwood Drive,"Louieville, KY",642,taniya,lucero,"1,955",182,0.4,322662.41,266422.35,6/13/2020
+29139 College Avenue,"Georgetown, KY",576,brylee,mcdonald,"1,487",138,0.2,180459.62,170750.89,12/11/2020
+29206 Lawrence Street,"St. Matthews, KY",454,dax,banks,"2,947",274,0.8,346366.63,325099.72,4/12/2020
+85034 Spruce Street,"Lexington, KY",707,jaliyah,ray,"2,596",241,0.8,390106.95,374697.73,1/4/2020
+42536 Route 9,"Louieville, KY",265,efrain,hodge,"3,460",321,0.5,403313.79,381776.83,3/18/2020
+83827 Cherry Lane,"Georgetown, KY",681,efrain,ray,"1,683",156,0.8,255220.01,247767.59,3/25/2020
+18899 Queen Street,"Lexington, KY",482,thalia,hodge,"5,308",493,0.2,664379.43,556617.09,12/24/2020
+71353 Adams Avenue,"St. Matthews, KY",682,efrain,gibbs,"9,721",903,0.3,1249495.64,1237000.69,3/21/2020
+29646 Schoolhouse Lane,"Covington, KY",525,taniya,combs,"1,649",153,0.8,220523.63,208350.72,1/14/2020
+99689 Redwood Drive,"Louieville, KY",255,triston,coleman,"1,269",118,0.9,257447.61,243699.91,1/26/2020
+78409 Route 1,"Lexington, KY",18,triston,skinner,"6,900",641,0.9,836117.8,752756.86,3/15/2020
+71957 Park Drive,"St. Matthews, KY",466,josue,banks,"2,264",210,0.5,287864.8,279545.51,2/13/2020
+30007 Franklin Street,"Nicholasville, KY",608,pamela,petersen,"1,376",128,0.4,199845.65,187894.88,7/6/2020
+40348 Riverside Drive,"Louieville, KY",751,esperanza,stewart,"2,844",264,0.8,343556.27,330226.29,11/18/2020
+63872 Heritage Drive,"Louieville, KY",236,efrain,bernard,"7,079",658,0.6,990964.86,939335.59,9/29/2020
+76254 Lincoln Street,"Louieville, KY",563,thalia,peters,"1,433",133,1,195669.17,160937.89,3/17/2020
+29762 Maple Street,"Georgetown, KY",583,abram,skinner,"1,958",182,0.3,230562.64,204555.17,6/29/2020
+88642 Highland Drive,"Florence, KY",20,beckham,stewart,"2,277",212,0.5,285692.42,242238.61,2/8/2020
+88654 5th Street East,"Georgetown, KY",308,nadia,lucero,"2,255",209,0.4,256827.59,219253.71,6/18/2020
+90215 Walnut Avenue,"Covington, KY",726,shyanne,coleman,"2,613",243,0.4,316535.81,310679.9,10/10/2020
+73928 Chestnut Avenue,"Jeffersontown, KY",420,samara,stewart,"2,131",198,0.5,325147.85,305086.23,11/2/2020
+87430 Cedar Avenue,"Frankfort, KY",30,jaliyah,vincent,"3,740",347,0.7,486282.48,428706.63,1/27/2020
+69954 Devon Court,"Louieville, KY",399,josue,munoz,"2,499",232,0.3,322088.79,268622.05,6/30/2020
+34599 B Street,"Lexington, KY",471,nadia,munoz,"1,503",140,0.4,223771.8,200633.8,5/23/2020
+33031 Laurel Drive,"Georgetown, KY",169,beckham,hutchinson,"2,560",238,0.9,440914,430464.34,12/14/2020
+99991 Route 64,"Louieville, KY",501,abram,mora,"7,622",708,0.8,855906.95,720673.65,8/1/2020
+51037 Church Road,"Jeffersontown, KY",356,taniya,hutchinson,"1,786",166,0.9,327877.41,267449.6,12/15/2020
+30874 Market Street,"St. Matthews, KY",404,laila,roy,"1,621",151,0.2,231073.64,219519.96,9/20/2020
+51434 Route 100,"St. Matthews, KY",173,brylee,petersen,"2,770",257,0.1,321416.1,316723.42,7/5/2020
+73661 Central Avenue,"Lexington, KY",564,triston,vincent,"2,029",188,0.7,328416.69,299647.38,12/3/2020
+83297 Front Street North,"Louieville, KY",60,beckham,mora,"2,305",214,0.7,272389.87,260214.04,12/18/2020
+34595 Oak Avenue,"Erlanger, KY",674,ryland,hutchinson,"5,712",531,0.9,717527.25,678637.28,11/9/2020
+10754 Court Street,"Georgetown, KY",315,brylee,boyd,"2,183",203,0.4,256846.1,245365.07,3/8/2020
+12259 12th Street,"St. Matthews, KY",742,abram,vang,"1,683",156,5.1,565663.99,528613,8/5/2020
+20498 Sycamore Lane,"Covington, KY",284,samara,lucero,"2,513",233,0.4,318506.22,309396.94,8/6/2020
+52625 Canterbury Court,"Jeffersontown, KY",371,pamela,stevenson,"4,624",430,0.9,521742.12,513915.99,6/25/2020
+77674 Locust Street,"Erlanger, KY",761,brylee,george,"1,178",109,0.2,133626.43,128909.42,9/17/2020
+26427 Water Street,"Florence, KY",684,laila,mason,"2,048",190,0.1,284294.17,284038.31,12/7/2020
+27674 Beechwood Drive,"Covington, KY",345,leandro,vang,"2,804",260,0.8,462126.93,437218.29,8/25/2020
+46566 Route 30,"Lexington, KY",6,reid,owen,"1,064",99,0.9,200696.43,182894.65,5/14/2020
+12065 Adams Street,"Florence, KY",730,triston,lucero,"9,171",852,0.7,1160020.44,1152248.3,2/27/2020
+65993 Columbia Street,"Nicholasville, KY",216,efrain,coleman,"1,233",115,0.5,225934.78,190146.71,2/16/2020
+40457 Henry Street,"Jeffersontown, KY",410,salma,boyd,"1,942",180,0.7,276947.83,237316.59,8/11/2020
+75822 Chestnut Street,"Georgetown, KY",518,triston,mason,"2,639",245,0.6,297598.49,263672.26,12/15/2020
+49788 Brandywine Drive,"St. Matthews, KY",529,kamari,boyd,"6,296",585,0.6,816419.73,782619.96,12/25/2020
+98735 Hill Street,"St. Matthews, KY",349,josue,mora,"2,079",193,0.2,235810.49,233475.97,5/6/2020
+16366 Garfield Avenue,"Florence, KY",658,dax,peters,"2,334",217,0.9,317098.22,265220.95,1/23/2020
+93967 Jefferson Street,"Florence, KY",274,shyanne,vincent,"1,660",154,0.4,216014.04,187392.18,11/22/2020
+69992 Ridge Avenue,"St. Matthews, KY",479,taniya,stevenson,"2,328",216,0.8,337766.76,303145.67,12/15/2020
+34763 6th Avenue,"Covington, KY",153,mekhi,ray,"1,956",182,0.9,357292.86,344823.34,4/6/2020
+87720 Route 10,"Florence, KY",550,jaliyah,coleman,"3,877",360,0.7,446526.08,357220.86,7/4/2020
+91349 Creek Road,"Florence, KY",755,nadia,roy,"2,638",245,0.5,361516.63,337548.08,3/31/2020
+22871 Poplar Street,"Lexington, KY",133,fisher,hanson,"4,611",428,1,685154.16,682139.48,11/29/2020
+69620 Lake Street,"Georgetown, KY",477,brylee,owen,"2,086",194,0.4,268983.41,254861.78,10/20/2020
+11434 Smith Street,"Louieville, KY",623,salma,hutchinson,"1,212",113,0.6,164957.85,155588.24,8/2/2020
+96290 Sunset Avenue,"Lexington, KY",661,triston,hanson,"2,496",232,0.3,288328.74,286771.76,8/6/2020
+37491 Briarwood Drive,"Lexington, KY",624,esperanza,gibbs,"1,284",119,0.8,194517.68,165476.19,1/17/2020
+65038 2nd Street,"Nicholasville, KY",64,esperanza,galloway,"2,716",252,0.3,373451.73,317620.7,9/4/2020
+96841 Route 29,"Louieville, KY",244,abram,hanson,"2,913",271,0.6,445832.39,359831.32,3/8/2020
+84223 Mulberry Street,"Richmond, KY",59,beckham,vincent,"1,525",142,0.6,257333.83,235563.39,4/29/2020
+38495 Sycamore Drive,"Richmond, KY",521,mohamed,boyd,"2,909",270,1,401169.66,398120.77,10/9/2020
+85442 State Street East,"Florence, KY",766,pamela,lucero,"1,712",159,0.8,217485.99,174815.24,6/29/2020
+34853 Route 6,"Louieville, KY",522,shyanne,gibbs,"2,136",198,0.4,297511.89,249344.72,3/3/2020
+38120 Valley Drive,"Louieville, KY",570,anderson,gibbs,"2,009",187,0.9,353061.01,314153.69,3/29/2020
+14445 Broad Street West,"Lexington, KY",56,denisse,vang,"9,167",852,22.1,2618824.54,2585303.59,12/14/2020
+52013 Maple Avenue,"St. Matthews, KY",212,thalia,briggs,"1,217",113,0.4,180929.83,178469.18,10/2/2020
+46871 Spruce Avenue,"Erlanger, KY",569,laila,copeland,"2,361",219,0.8,401164.83,338101.72,3/19/2020
+45209 Cambridge Road,"Florence, KY",626,fisher,skinner,"7,851",729,0.2,906432.35,734844.7,5/1/2020
+75090 Devonshire Drive,"Florence, KY",341,dakota,roy,"2,948",274,6,904036.58,855309.01,2/26/2020
+18501 Warren Avenue,"Nicholasville, KY",221,anderson,owen,"2,785",259,0.9,394648.79,388097.62,11/27/2020
+15535 Jefferson Avenue,"Frankfort, KY",547,nadia,hodge,"1,393",129,0.2,165255.89,151737.96,11/3/2020
+91835 Cottage Street,"Louieville, KY",286,josue,ray,"6,030",560,0.4,863119.27,753330.5,4/30/2020
+50946 Deerfield Drive,"Louieville, KY",147,abram,copeland,"1,388",129,0.1,208464.21,176006.33,8/16/2020
+83814 Front Street South,"Jeffersontown, KY",253,leandro,hutchinson,"2,348",218,0.8,393766.13,343600.33,2/7/2020
+38028 Woodland Avenue,"Richmond, KY",520,denisse,boyd,"1,002",93,0.2,154313.25,139607.2,10/18/2020
+86483 Evergreen Lane,"Jeffersontown, KY",285,efrain,boyd,"2,309",215,0.2,286662.81,239564.11,9/27/2020
+45617 Race Street,"Lexington, KY",352,reid,combs,"7,724",718,27.4,3230046.18,3194515.68,8/27/2020
+77202 Lafayette Avenue,"Louieville, KY",537,efrain,casey,"1,531",142,23.5,1507731.75,1295895.44,10/5/2020
+21069 Main Street West,"Louieville, KY",579,shyanne,briggs,"2,939",273,0.3,347064.22,281017.9,2/19/2020
+72391 Route 17,"Jeffersontown, KY",768,salma,banks,"2,722",253,0.7,358673.26,347877.2,3/31/2020
+63645 Berkshire Drive,"Louieville, KY",29,jaliyah,combs,"2,118",197,0.8,273888.01,222314.9,1/21/2020
+28413 Valley View Road,"Louieville, KY",211,samara,gibbs,"1,828",170,0.9,271121.27,218876.2,3/1/2020
+77010 Ridge Street,"Florence, KY",786,laila,ray,"1,221",113,0.6,177350.9,149187.58,6/15/2020
+78515 Glenwood Avenue,"Erlanger, KY",301,leandro,combs,"2,354",219,0.3,368914.87,316160.04,3/26/2020
+41913 Linda Lane,"Florence, KY",641,skyler,lucero,"1,562",145,0.4,189424.22,158055.57,11/23/2020
+42442 Durham Road,"St. Matthews, KY",290,nadia,hanson,"1,381",128,0.2,204283.5,188962.24,2/24/2020
+26118 Eagle Street,"Richmond, KY",258,skyler,peters,"1,835",170,17.5,1345722.06,1133367.12,9/1/2020
+71830 Homestead Drive,"Richmond, KY",551,fisher,copeland,"1,362",127,0.7,207895.91,196815.06,11/9/2020
+42503 11th Street,"Lexington, KY",82,mekhi,banks,"1,097",102,0.8,187603.29,182969.49,1/2/2020
+78096 Penn Street,"Jeffersontown, KY",118,ryland,ray,"2,960",275,0.8,504637.1,488488.71,9/26/2020
+56743 Arlington Avenue,"Lexington, KY",87,denisse,munoz,"2,424",225,0.6,295711.41,280925.84,2/13/2020
+57398 Route 202,"Lexington, KY",14,beckham,combs,"1,032",96,0.3,145258.49,123426.14,10/15/2020
+50460 Rose Street,"Frankfort, KY",727,mohamed,hutchinson,"4,747",441,0.2,697431.53,672602.97,5/23/2020
+13760 Wood Street,"Jeffersontown, KY",683,salma,skinner,"1,553",144,0.3,208349.12,181680.43,12/22/2020
+92633 Railroad Street,"Lexington, KY",590,pamela,ray,"2,821",262,3.9,666643.94,541914.86,8/30/2020
+38451 Windsor Drive,"Florence, KY",53,carly,skinner,"2,401",223,0.8,343779.36,322190.02,4/5/2020
+91190 Vine Street,"Jeffersontown, KY",100,reid,roy,"1,917",178,0.2,254652.95,225011.34,12/20/2020
+47320 Forest Drive,"Louieville, KY",326,reid,briggs,"2,830",263,0.5,427073.74,380608.11,4/7/2020
+88417 Andover Court,"Florence, KY",170,mohamed,casey,"2,065",192,0.3,322956.23,301705.71,4/11/2020
+24511 Manor Drive,"Louieville, KY",763,samara,hodge,"2,604",242,0.3,322607.67,321994.72,3/24/2020
+90614 Clark Street,"Louieville, KY",206,pamela,roy,"2,646",246,19,1280646.23,1038091.83,2/24/2020
+62697 7th Street,"Covington, KY",412,nadia,vang,"1,698",158,0.5,291499.71,253342.4,5/31/2020
+28874 Myrtle Street,"St. Matthews, KY",754,skyler,roy,"2,368",220,0.8,407446.84,373954.71,1/11/2020
+82229 Morris Street,"Jeffersontown, KY",22,anderson,casey,"1,609",149,0.4,196072.83,190229.86,11/10/2020
+61870 Oak Lane,"Lexington, KY",309,ryland,boyd,"1,876",174,0.7,248723.15,208504.62,5/11/2020
+15249 Summer Street,"Jeffersontown, KY",363,dakota,boyd,"1,788",166,27.2,1838121.75,1791433.46,6/18/2020
+96470 Elmwood Avenue,"Lexington, KY",226,dakota,peters,"9,134",849,0.8,1032935.66,842668.91,10/22/2020
+83206 Willow Lane,"St. Matthews, KY",526,kamari,mcdonald,"2,668",248,21.1,1429285.07,1174443.54,7/18/2020
+50759 Linden Street,"Jeffersontown, KY",676,pamela,hodge,"1,538",143,0.7,265749.9,259690.8,5/23/2020
+89277 River Road,"Jeffersontown, KY",80,jaliyah,galloway,"2,846",264,0.6,369592.69,334296.58,10/12/2020
+48725 Lakeview Drive,"Louieville, KY",193,pamela,hanson,"1,286",119,0.9,250257.17,208314.07,7/14/2020
+35167 Forest Avenue,"Erlanger, KY",222,mohamed,peters,"1,552",144,0.9,218128.57,177185.83,2/17/2020
+36468 Hilltop Road,"Richmond, KY",41,salma,roy,"1,855",172,0.9,318844.47,306568.96,2/17/2020
+84735 5th Avenue,"St. Matthews, KY",336,josue,skinner,"4,287",398,0.7,608535.6,555836.42,12/17/2020
+54284 Myrtle Avenue,"Florence, KY",202,pamela,boyd,"6,239",580,0.8,765035.99,737724.2,8/10/2020
+77166 Main Street South,"Jeffersontown, KY",441,pamela,briggs,"1,572",146,0.2,186690.82,185682.69,8/24/2020
+81619 Charles Street,"Jeffersontown, KY",9,dax,hanson,"2,966",276,0.2,314982.56,314699.07,8/20/2020
+60868 Grant Avenue,"St. Matthews, KY",266,skyler,vincent,"1,604",149,0.4,204987.35,169381.05,7/27/2020
+67748 Washington Avenue,"Covington, KY",348,anderson,coleman,"9,653",897,5.7,1368661.29,1169794.8,8/12/2020
+77022 Beech Street,"Georgetown, KY",721,mekhi,stewart,"1,658",154,0.8,241664.27,193645.58,3/24/2020
+11375 Maple Lane,"Jeffersontown, KY",330,shyanne,carrillo,"1,246",116,0.6,221666.82,219782.65,6/4/2020
+41837 Olive Street,"Frankfort, KY",514,fisher,owen,"1,736",161,0.5,230875.26,228705.03,1/6/2020
+96378 Jackson Street,"Florence, KY",32,brylee,hutchinson,"2,264",210,0.4,349952.04,290320.21,2/23/2020
+80535 5th Street South,"St. Matthews, KY",157,carly,stewart,"1,663",154,0.7,238038.37,221732.74,12/19/2020
+74082 Chapel Street,"Jeffersontown, KY",112,shyanne,galloway,"2,758",256,0.2,304143.88,270779.29,10/16/2020
+59765 Spring Street,"Nicholasville, KY",725,salma,mora,"8,957",832,0.5,1167454.23,966885.59,9/13/2020
+48520 Tanglewood Drive,"Richmond, KY",95,triston,casey,"1,234",115,16.9,1396759.97,1152466.65,5/29/2020
+96397 Jackson Avenue,"Florence, KY",558,fisher,galloway,"6,803",632,0.6,956023.72,866061.88,7/16/2020
+26460 Ivy Lane,"Lexington, KY",543,ryland,vincent,"2,164",201,0.2,310579.23,272471.16,8/24/2020
+47713 River Street,"Richmond, KY",396,triston,carrillo,"7,961",740,0.2,1182173.56,1012295.22,1/27/2020
+81793 Willow Avenue,"Jeffersontown, KY",533,nadia,ray,"2,146",199,0.5,299388.67,258402.36,7/27/2020
+18453 Colonial Avenue,"Covington, KY",239,efrain,lucero,"2,509",233,0.6,385719.02,314283.86,9/4/2020
+30057 Bank Street,"St. Matthews, KY",736,thalia,owen,"2,721",253,1,386925.51,346259.64,8/4/2020
+55528 Evergreen Drive,"Louieville, KY",291,taniya,george,"2,374",221,0.5,378778.45,311621.03,11/24/2020
+99817 Cobblestone Court,"Jeffersontown, KY",453,mohamed,hanson,"1,196",111,0.5,183226.68,154716.61,6/17/2020
+40510 Fairway Drive,"Florence, KY",67,anderson,mcdonald,"2,709",252,0.7,436800.61,415528.42,2/15/2020
+76096 Winding Way,"Frankfort, KY",659,leandro,galloway,"1,699",158,0.2,261720.4,220499.43,7/21/2020
+84349 Amherst Street,"Louieville, KY",734,reid,hanson,"1,881",175,0.7,315824.45,266240.01,3/2/2020
+79903 Lantern Lane,"Frankfort, KY",37,esperanza,casey,"9,450",878,0.5,1085739.42,991497.24,4/5/2020
+72502 Summit Avenue,"Georgetown, KY",513,shyanne,mason,"1,596",148,0.8,277448.91,254892.31,11/2/2020
+37563 Harrison Street,"Louieville, KY",11,ryland,galloway,"2,240",208,0.4,353427.73,337488.14,6/25/2020
+86554 Route 20,"St. Matthews, KY",666,taniya,casey,"1,490",138,0.9,212858.37,181248.9,8/27/2020
+58479 Pennsylvania Avenue,"Louieville, KY",705,leandro,owen,"1,574",146,0.5,215919.6,199984.73,3/15/2020
+84545 Monroe Drive,"Lexington, KY",88,shyanne,banks,"1,412",131,0.2,174295.28,146408.03,12/29/2020
+46188 Virginia Street,"Jeffersontown, KY",630,ryland,george,"1,319",123,0.6,183615.38,170450.15,6/12/2020
+11238 Hickory Lane,"Lexington, KY",614,dax,owen,"7,238",672,0.9,787635.63,639638.9,3/31/2020
+68798 Williams Street,"Lexington, KY",357,esperanza,george,"1,559",145,0.1,166559.19,141042.32,9/11/2020
+95621 Academy Street,"Louieville, KY",691,kamari,stevenson,"2,859",266,0.8,470944.88,468778.53,5/26/2020
+98970 Fawn Court,"Louieville, KY",57,beckham,copeland,"2,925",272,0.5,383238.08,355338.34,12/28/2020
+32686 4th Street West,"Lexington, KY",688,thalia,lucero,"1,335",124,0.2,208911.6,195353.24,1/9/2020
+60495 Grand Avenue,"Covington, KY",582,kamari,petersen,"1,600",149,0.1,194438.46,163522.74,6/10/2020
+93538 Cambridge Court,"Frankfort, KY",493,mohamed,combs,"2,166",201,1,294043.82,257082.51,2/20/2020
+68514 Bay Street,"Georgetown, KY",800,fisher,petersen,"1,490",138,0.2,227709.95,227345.61,10/13/2020
+27567 Heather Lane,"Covington, KY",611,mohamed,briggs,"1,974",183,0.7,256888.16,240884.03,5/2/2020
+39464 Lexington Drive,"Louieville, KY",698,triston,galloway,"2,680",249,0.3,421413.66,376322.4,9/22/2020
+99105 Route 27,"Frankfort, KY",393,nadia,petersen,"2,007",186,0.8,330435.46,296400.61,2/10/2020
+86191 Cleveland Street,"Richmond, KY",172,pamela,gibbs,"1,896",176,0.5,236275.25,189847.16,3/18/2020
+30730 William Street,"Nicholasville, KY",480,dakota,coleman,"2,848",265,0.1,346881.77,300330.23,2/26/2020
+72914 Briarwood Court,"St. Matthews, KY",43,brylee,stewart,"1,908",177,0.2,252421.73,216779.78,9/18/2020
+93618 Clay Street,"Florence, KY",571,abram,peters,"2,861",266,0.5,464162.83,374904.32,4/25/2020
+14323 Pheasant Run,"Florence, KY",107,denisse,stevenson,"2,476",230,16.8,1535212.56,1293416.58,10/9/2020
+86036 Ann Street,"Richmond, KY",592,kamari,munoz,"2,445",227,0.7,396833.87,388778.15,11/2/2020
+42342 6th Street North,"Lexington, KY",455,ryland,combs,"1,085",101,24.8,1875249.64,1771173.29,3/12/2020
+37409 Hanover Court,"Louieville, KY",71,nadia,mcdonald,"1,941",180,0.8,250041.62,245490.86,2/3/2020
+74042 9th Street,"Louieville, KY",668,reid,vincent,"2,094",195,0.9,299612.83,276872.22,10/11/2020
+85412 Grove Street,"St. Matthews, KY",69,jaliyah,mason,"1,089",101,0.5,154678.44,142984.75,4/4/2020
+89902 8th Street West,"Covington, KY",628,abram,george,"7,935",737,0.6,1085728.58,935029.45,12/21/2020
+69548 Franklin Avenue,"Lexington, KY",704,carly,casey,"1,480",137,0.7,249956.8,221511.72,2/11/2020
+44691 Mill Road,"Nicholasville, KY",44,taniya,peters,"2,789",259,0.5,412311.85,371369.28,11/11/2020
+36496 Walnut Street,"Lexington, KY",122,nadia,mason,"9,984",928,0.3,1321273.8,1213457.86,7/26/2020
+95212 Roosevelt Avenue,"Erlanger, KY",426,fisher,roy,"2,550",237,0.7,417329.38,360739.52,9/25/2020
+64916 Route 7,"Georgetown, KY",55,pamela,galloway,"1,188",110,0.5,173610.6,162673.13,8/8/2020
+67018 Woodland Drive,"Jeffersontown, KY",124,beckham,bernard,"2,904",270,0.6,383684.19,374514.13,2/27/2020
+87778 Center Street,"Georgetown, KY",685,reid,mason,"9,013",837,0.3,1235576.06,1082488.18,5/17/2020
+18935 10th Street,"Frankfort, KY",188,nadia,banks,"2,132",198,0.1,237683.81,193569.69,5/20/2020
+94579 Brown Street,"Louieville, KY",461,shyanne,petersen,"2,959",275,0.1,446237.46,430262.16,6/4/2020
+22472 4th Avenue,"Louieville, KY",644,carly,munoz,"2,846",264,0.7,450558.99,441637.93,11/2/2020
+61147 Maiden Lane,"Lexington, KY",339,shyanne,hanson,"1,043",97,26.5,1969044.4,1831605.1,12/29/2020
+38244 Orchard Street,"Erlanger, KY",276,reid,ray,"2,667",248,0.3,409577.51,332781.73,9/20/2020
+57048 Brook Lane,"Lexington, KY",142,thalia,gibbs,"2,293",213,0.7,285252.99,254930.59,11/21/2020
+86311 Valley View Drive,"Louieville, KY",718,samara,copeland,"1,258",117,0.9,251088.04,230398.39,6/7/2020
+79954 Country Lane,"Richmond, KY",566,fisher,banks,"2,527",235,0.7,407652.01,348909.35,12/7/2020
+10388 Fieldstone Drive,"Jeffersontown, KY",382,fisher,stevenson,"2,386",222,0.9,380467.91,361748.89,4/25/2020
+20747 Creekside Drive,"Richmond, KY",447,denisse,copeland,"3,352",311,0.4,445253.97,406873.07,1/8/2020
+45852 3rd Street West,"Frankfort, KY",134,laila,peters,"2,495",232,0.8,380111.59,364641.05,5/30/2020
+98890 Madison Court,"Erlanger, KY",372,denisse,hutchinson,"1,510",140,0.8,268832.6,261520.35,6/20/2020
+72112 High Street,"Florence, KY",610,denisse,hanson,"2,783",259,0.9,455360.67,368705.54,2/25/2020
+50745 Windsor Court,"Louieville, KY",667,salma,bernard,"2,009",187,1,306691.59,297797.53,10/29/2020
+18140 4th Street,"Florence, KY",77,dax,coleman,"1,921",178,0.5,233543.2,210329,4/12/2020
+78067 8th Street South,"Louieville, KY",19,jaliyah,skinner,"2,543",236,0.3,396236.05,335493.06,8/5/2020
+70678 Prospect Avenue,"Florence, KY",589,reid,carrillo,"1,589",148,0.6,210536.46,190767.09,2/5/2020
+61048 1st Avenue,"Frankfort, KY",281,fisher,stewart,"2,276",211,0.6,317699.23,300607.01,5/2/2020
+60274 Holly Drive,"Louieville, KY",86,jaliyah,bernard,"1,646",153,0.8,279485.55,235857.86,6/14/2020
+53487 Hillcrest Drive,"Louieville, KY",366,triston,roy,"1,966",183,3.3,513529.29,509215.65,2/26/2020
+11363 Bridle Lane,"Richmond, KY",31,salma,briggs,"1,256",117,0.6,210575.58,200973.33,3/21/2020
+48856 Church Street North,"Jeffersontown, KY",535,taniya,vincent,"2,529",235,0.5,337461.18,310329.3,7/27/2020
+44179 Cemetery Road,"Louieville, KY",792,pamela,george,"2,291",213,0.6,276062.58,229932.52,6/26/2020
+95929 Sunset Drive,"Jeffersontown, KY",54,salma,galloway,"2,964",275,0.6,471335.1,469826.83,7/11/2020
+16985 14th Street,"Georgetown, KY",159,mohamed,bernard,"1,130",105,0.7,222456.08,195271.95,6/19/2020
+17064 Hickory Street,"Florence, KY",200,salma,lucero,"1,102",102,0.9,233735.17,221954.92,3/25/2020
+88959 Wall Street,"Jeffersontown, KY",287,samara,ray,"2,824",262,0.4,445828,414397.13,8/10/2020
+70374 Hamilton Road,"Lexington, KY",586,dax,mason,"5,834",542,0.5,644451.4,574141.75,7/22/2020
+71634 East Avenue,"Georgetown, KY",633,mohamed,lucero,"1,716",159,0.2,223363.52,201429.22,10/30/2020
+60510 Augusta Drive,"Jeffersontown, KY",252,fisher,hutchinson,"1,467",136,0.5,173046.67,162317.77,3/14/2020
+48756 Railroad Avenue,"Lexington, KY",464,beckham,george,"4,153",386,0.7,479161.36,402783.04,3/28/2020
+87219 Devon Road,"Erlanger, KY",358,mekhi,casey,"1,654",154,1,324757.83,260845.49,6/14/2020
+48837 Division Street,"Louieville, KY",275,reid,copeland,"1,108",103,8.6,843225.68,794740.2,1/3/2020
+21063 Dogwood Drive,"Lexington, KY",596,jaliyah,stevenson,"1,613",150,0.6,254904.55,210704.1,10/3/2020
+60537 Main Street,"Louieville, KY",380,abram,boyd,"1,639",152,0.6,251176.45,217543.92,7/19/2020
+98549 Woodland Road,"Lexington, KY",539,anderson,banks,"1,907",177,0.7,253741.65,219740.27,3/2/2020
+30160 Canterbury Drive,"Louieville, KY",452,taniya,copeland,"1,935",180,0.5,295969.76,252166.24,10/27/2020
+57274 Pin Oak Drive,"Erlanger, KY",760,savion,munoz,"2,966",276,0.5,402191.17,329917.42,5/1/2020
+81355 Pine Street,"Louieville, KY",606,josue,petersen,"2,459",228,0.5,316996.84,264819.16,6/15/2020
+81288 College Street,"St. Matthews, KY",664,carly,hodge,"5,097",474,24.9,2399134.99,2115317.32,10/27/2020
+13393 Magnolia Avenue,"Frankfort, KY",8,leandro,bernard,"1,083",101,0.2,128644.63,121144.65,2/7/2020
+47896 Harrison Avenue,"Florence, KY",215,pamela,mcdonald,"9,213",856,0.6,1190175.44,1078179.93,8/21/2020
+27411 2nd Street West,"Florence, KY",783,taniya,gibbs,"2,830",263,25.7,2220934,1916221.86,4/4/2020
+90631 Broadway,"Florence, KY",717,dax,mora,"1,938",180,0.3,229691.88,202611.21,3/28/2020
+96977 Elm Avenue,"Louieville, KY",696,mohamed,vang,"4,549",423,1,581397.92,544595.43,12/5/2020
+99971 Brookside Drive,"Louieville, KY",738,esperanza,ray,"1,955",182,0.3,239657.17,216458.35,1/24/2020
+32965 Bayberry Drive,"Louieville, KY",160,skyler,hanson,"2,781",258,0.6,415711.19,345040.29,10/27/2020
+63095 Valley Road,"Louieville, KY",796,salma,hanson,"5,479",509,0.6,829267.99,734068.02,4/24/2020
+77708 Lincoln Avenue,"St. Matthews, KY",49,dakota,vang,"1,979",184,0.4,261695.48,228303.14,6/26/2020
+65201 2nd Avenue,"St. Matthews, KY",795,salma,stewart,"2,623",244,0.2,304732,270602.02,6/7/2020
+40065 Laurel Lane,"Florence, KY",775,mohamed,copeland,"1,362",127,0.3,199406.74,159744.74,5/4/2020
+78133 Cedar Lane,"Louieville, KY",73,samara,casey,"2,336",217,0.7,362868.32,331625.36,2/21/2020
+68711 Belmont Avenue,"Jeffersontown, KY",788,shyanne,george,"1,145",106,0.6,215921.19,200310.09,2/26/2020
+27487 3rd Street,"Covington, KY",246,denisse,ray,"4,662",433,0.3,611098.85,593926.97,11/9/2020
+45412 Hawthorne Lane,"Covington, KY",162,savion,banks,"2,735",254,0.6,412825.32,390367.62,3/10/2020
+44166 Colonial Drive,"Louieville, KY",319,skyler,galloway,"5,104",474,0.9,762879.46,629528.13,1/25/2020
+40596 Madison Avenue,"Louieville, KY",270,mekhi,briggs,"2,338",217,0.5,367515.85,347559.74,7/13/2020
+68699 Depot Street,"Georgetown, KY",750,taniya,vang,"2,790",259,0.7,475351.03,402099.43,7/30/2020
+77727 Sherman Street,"Covington, KY",490,triston,hutchinson,"2,703",251,0.6,302235.93,269382.89,12/9/2020
+31802 Route 70,"Covington, KY",189,triston,munoz,"1,409",131,0.5,221981.31,204355.99,3/19/2020
+66136 Cleveland Avenue,"Jeffersontown, KY",245,mohamed,petersen,"6,535",607,12.5,1522708.79,1241769.02,7/9/2020
+77039 Route 44,"Covington, KY",76,carly,briggs,"7,833",728,0.5,1093511.16,901381.25,3/23/2020
+42833 Aspen Drive,"Louieville, KY",168,leandro,roy,"1,674",156,0.2,224093.66,223645.47,7/19/2020
+82329 Cambridge Drive,"Louieville, KY",680,thalia,mcdonald,"3,874",360,0.7,459459.88,444022.03,7/12/2020
+71415 James Street,"Nicholasville, KY",391,pamela,bernard,"1,906",177,0.1,252924.95,229478.8,9/8/2020
+36627 13th Street,"Richmond, KY",497,triston,hodge,"1,938",180,0.8,316200.39,303141.31,3/24/2020
+77663 Carriage Drive,"Georgetown, KY",398,laila,stewart,"1,753",163,0.9,298600.33,291792.24,1/30/2020
+17831 West Street,"Louieville, KY",577,dakota,copeland,"1,129",105,0.4,191586.74,172064.05,12/20/2020
+56905 State Street,"Florence, KY",138,thalia,mason,"2,049",190,0.2,259958.26,230037.06,1/27/2020
+10932 Main Street East,"St. Matthews, KY",199,carly,lucero,"2,918",271,0.6,482972.92,423905.33,11/8/2020
+76874 Magnolia Drive,"Florence, KY",116,denisse,vincent,"1,455",135,0.1,190822.81,162123.06,2/18/2020
+70273 Magnolia Court,"Jeffersontown, KY",635,savion,stewart,"2,044",190,0.4,331100.56,270774.04,12/22/2020
+22974 Cross Street,"Florence, KY",476,shyanne,vang,"2,319",215,0.4,276184.06,228514.69,2/25/2020
+20622 Prospect Street,"Covington, KY",123,fisher,george,"8,357",776,0.5,1070461.78,923915.56,10/6/2020
+73699 Meadow Lane,"Louieville, KY",527,dakota,vincent,"2,893",269,0.5,457568.29,387377.31,7/22/2020
+65607 Orchard Avenue,"Erlanger, KY",145,fisher,briggs,"1,901",177,0.7,312357.39,283589.28,7/31/2020
+38994 Front Street,"Erlanger, KY",648,salma,george,"2,993",278,14.5,1575643.55,1534361.69,8/20/2020
+23798 Hudson Street,"Louieville, KY",758,josue,peters,"1,953",181,11.7,1193743.69,1049897.58,6/13/2020
+82870 Orchard Lane,"Louieville, KY",640,brylee,bernard,"2,372",220,0.7,322417.97,266800.87,12/18/2020
+49231 Washington Street,"Louieville, KY",395,nadia,carrillo,"1,573",146,0.3,177166.47,156012.79,3/21/2020
+62021 Meadow Street,"Florence, KY",542,dakota,munoz,"5,529",514,0.3,683211.96,640716.17,10/7/2020
+40640 Edgewood Drive,"Jeffersontown, KY",578,jaliyah,copeland,"1,619",150,0.4,188631.05,179652.21,7/26/2020
+11135 Eagle Road,"Lexington, KY",195,kamari,coleman,"2,388",222,0.2,322249.74,258734.32,9/12/2020
+67042 Route 5,"Covington, KY",462,efrain,petersen,"2,418",225,0.8,361016.73,338128.26,7/10/2020
+56373 5th Street,"Frankfort, KY",220,carly,copeland,"1,392",129,0.9,220041.11,214760.12,8/5/2020
+68236 Buckingham Drive,"Frankfort, KY",283,kamari,hanson,"1,691",157,0.8,223519.67,188650.6,9/19/2020
+71383 Mulberry Lane,"Lexington, KY",179,abram,roy,"4,592",427,0.7,689832.96,584288.52,2/11/2020
+75857 New Street,"Jeffersontown, KY",101,efrain,hutchinson,"2,816",262,0.4,359337.43,352078.82,10/9/2020
+12316 Park Place,"Richmond, KY",48,josue,boyd,"1,363",127,0.4,230070.07,226112.87,10/24/2020
+84100 Westminster Drive,"Florence, KY",422,savion,mora,"2,889",268,0.9,341691.44,303011.97,11/21/2020
+46162 Orange Street,"Lexington, KY",104,brylee,galloway,"1,075",100,1,193402.18,191294.09,4/18/2020
+64573 Lilac Lane,"Florence, KY",68,triston,george,"2,826",263,0.5,373438.92,318954.18,11/29/2020
+13420 King Street,"Frankfort, KY",368,pamela,skinner,"2,113",196,0.8,348037.19,282606.2,10/9/2020
+95579 Monroe Street,"Louieville, KY",443,jaliyah,hodge,"1,113",103,0.4,153698.32,133041.26,4/5/2020
+27133 Fairview Avenue,"Richmond, KY",508,beckham,owen,"2,059",191,0.7,324923.97,297987.78,12/11/2020
+70597 2nd Street North,"Louieville, KY",756,taniya,ray,"2,587",240,0.4,300352.25,270347.06,2/6/2020
+31092 Route 2,"Covington, KY",52,mekhi,george,"8,773",815,0.6,1146214.18,1029185.71,8/21/2020
+73719 South Street,"Jeffersontown, KY",187,samara,vincent,"1,253",116,0.7,221948.16,208542.49,6/23/2020
+48703 Shady Lane,"Jeffersontown, KY",495,carly,banks,"7,878",732,0.4,884419.06,799337.95,12/25/2020
+79630 Bridge Street,"Jeffersontown, KY",5,taniya,boyd,"1,668",155,0.3,269879.61,239680.08,6/23/2020
+84425 Country Club Drive,"Florence, KY",414,leandro,hanson,"2,436",226,0.1,303935.99,272387.43,10/12/2020
+78060 Route 4,"St. Matthews, KY",442,dakota,hutchinson,"2,987",277,0.4,333753.23,327311.79,4/15/2020
+15600 Madison Street,"Covington, KY",102,taniya,stewart,"2,176",202,0.3,267665.03,220047.42,10/17/2020
+21280 Forest Street,"Richmond, KY",92,anderson,boyd,"1,433",133,0.4,208085.07,190293.8,4/17/2020
+45769 Taylor Street,"Florence, KY",3,beckham,petersen,"1,913",178,0.4,312056.49,258788.45,5/23/2020
+49182 Virginia Avenue,"Florence, KY",433,brylee,casey,"2,400",223,0.4,355440.64,349575.87,2/4/2020
+71486 Sheffield Drive,"Louieville, KY",111,josue,galloway,"1,556",145,0.8,270485.51,245032.82,3/15/2020
+34307 9th Street West,"Florence, KY",180,ryland,roy,"9,427",876,0.3,1198255.47,1065608.59,7/4/2020
+42947 3rd Avenue,"Lexington, KY",300,mohamed,mcdonald,"1,276",119,0.4,189481.19,185123.12,11/27/2020
+13946 North Avenue,"Louieville, KY",561,jaliyah,briggs,"2,657",247,0.3,322727.15,303783.06,10/13/2020
+89626 Elm Street,"Frankfort, KY",799,salma,ray,"1,418",132,0.4,213495.75,204742.43,2/7/2020
+78996 Fairview Road,"St. Matthews, KY",573,nadia,hutchinson,"2,163",201,18.2,1635722.64,1437800.2,8/2/2020
+79310 Laurel Lane,"Erlanger, KY",488,josue,copeland,"3,407",317,0.7,508137.95,426022.85,6/13/2020
+50685 Willow Avenue,"Georgetown, KY",675,ryland,carrillo,"2,048",190,0.2,309799.53,305617.24,11/1/2020
+41520 Prospect Street,"Louieville, KY",25,dakota,stewart,"2,752",256,0.5,314060.27,297917.57,5/2/2020
+20623 River Road,"Florence, KY",324,thalia,stewart,"1,186",110,0.3,137118.94,128713.55,10/27/2020
+37395 Laurel Street,"St. Matthews, KY",416,shyanne,ray,"1,439",134,0.2,200556.19,166782.52,9/5/2020
+72490 Court Street,"Louieville, KY",774,brylee,stevenson,"2,957",275,0.2,334876.81,311334.97,1/19/2020
+79358 Lincoln Street,"Florence, KY",616,anderson,peters,"1,605",149,0.5,187662.58,151931.62,9/11/2020
+18166 James Street,"Jeffersontown, KY",498,thalia,hanson,"1,352",126,0.4,187084.4,159582.99,11/1/2020
+32637 Ann Street,"Covington, KY",631,carly,vincent,"2,108",196,0.4,306855.27,283380.84,2/22/2020
+93422 Park Place,"Florence, KY",219,fisher,hodge,"6,162",572,1,881692.87,864852.53,11/4/2020
+29640 3rd Street West,"Georgetown, KY",97,beckham,galloway,"1,989",185,0.6,234882,194435.32,3/5/2020
+90872 John Street,"Louieville, KY",280,leandro,stevenson,"2,791",259,0.2,308935.81,284498.99,11/12/2020
+61433 Hillcrest Avenue,"Erlanger, KY",634,beckham,banks,"2,834",263,0.3,401917.31,353647.04,10/2/2020
+20990 Elmwood Avenue,"Lexington, KY",444,salma,copeland,"1,554",144,1,264567.77,259382.24,7/8/2020
+62200 Devonshire Drive,"Jeffersontown, KY",423,savion,casey,"1,629",151,0.7,238765.85,197196.72,5/23/2020
+55417 Clinton Street,"Georgetown, KY",21,denisse,combs,"1,198",111,0.6,212613.65,171281.56,9/5/2020
+18517 3rd Avenue,"Lexington, KY",504,ryland,vang,"1,195",111,0.9,196993.15,168704.93,7/10/2020
+43576 4th Avenue,"Covington, KY",321,mekhi,vincent,"4,378",407,0.2,658534.51,559820.19,4/18/2020
+58025 Race Street,"Jeffersontown, KY",45,carly,gibbs,"1,013",94,0.2,148049.97,131882.91,1/10/2020
+91524 Brandywine Drive,"Lexington, KY",620,triston,owen,"1,417",132,0.7,241885.67,237410.78,9/21/2020
+87851 Hamilton Road,"Jeffersontown, KY",229,nadia,peters,"2,889",268,0.1,358705.25,307087.57,9/23/2020
+39602 10th Street,"Covington, KY",355,reid,peters,"1,099",102,0.9,170097.13,168617.29,8/21/2020
+16954 Briarwood Court,"Jeffersontown, KY",91,savion,mcdonald,"9,004",836,0.6,1317408.64,1201081.46,11/6/2020
+11215 Magnolia Avenue,"Lexington, KY",585,salma,gibbs,"1,948",181,1,295823.78,291149.76,4/23/2020
+83217 Hillside Avenue,"Louieville, KY",218,ryland,hanson,"2,338",217,0.3,293858.17,282221.39,9/2/2020
+40104 Pine Street,"Lexington, KY",740,leandro,banks,"9,545",887,0.7,1440354.15,1229198.24,12/12/2020
+23361 Grove Street,"Louieville, KY",146,thalia,vincent,"2,055",191,0.3,285969.11,264607.22,7/1/2020
+83100 3rd Street East,"Covington, KY",26,abram,banks,"1,103",102,0.4,150586.98,125047.42,2/11/2020
+10425 Willow Drive,"Georgetown, KY",615,anderson,mora,"1,265",118,29.7,1719588.99,1695342.79,2/24/2020
+76129 Linden Street,"Richmond, KY",764,jaliyah,carrillo,"1,029",96,19,1495327.54,1196710.63,4/20/2020
+33966 Heather Court,"Nicholasville, KY",609,nadia,owen,"2,752",256,0.6,339989.1,277091.12,1/22/2020
+60376 Cemetery Road,"Lexington, KY",328,ryland,gibbs,"1,524",142,0.8,285139.05,250808.31,3/18/2020
+58482 Route 20,"Erlanger, KY",784,mekhi,copeland,"2,749",255,1,417063.23,409973.15,3/11/2020
+46950 Front Street North,"St. Matthews, KY",735,fisher,lucero,"5,109",475,12.2,1461821.38,1351015.32,11/13/2020
+72937 Route 4,"Louieville, KY",129,esperanza,combs,"2,018",187,0.7,241368.02,201300.92,7/2/2020
+86012 Overlook Circle,"St. Matthews, KY",401,dakota,briggs,"4,053",377,0.4,493904.8,452021.67,4/28/2020
+95005 Spring Street,"Erlanger, KY",66,mohamed,vincent,"1,085",101,0.8,165410.62,142650.12,9/1/2020
+11662 Maple Avenue,"Lexington, KY",790,abram,galloway,"1,716",159,0.1,221081.47,202068.46,10/27/2020
+20914 North Avenue,"Louieville, KY",467,efrain,owen,"1,395",130,0.9,214217.87,201107.74,9/23/2020
+93933 Route 70,"Nicholasville, KY",332,reid,casey,"1,562",145,0.6,218095.87,216023.95,10/25/2020
+62063 3rd Street North,"St. Matthews, KY",294,denisse,galloway,"2,889",268,0.7,488972.8,407265.44,5/13/2020
+20441 Sherman Street,"Louieville, KY",190,fisher,vincent,"2,099",195,19.6,1738520.88,1492694.03,3/10/2020
+14235 Hanover Court,"Georgetown, KY",89,efrain,banks,"1,610",150,5.3,516569.53,445799.5,7/21/2020
+79530 5th Street East,"Louieville, KY",47,abram,gibbs,"2,195",204,0.6,346649.97,327826.88,7/30/2020
+32576 Route 1,"Erlanger, KY",164,jaliyah,peters,"2,220",206,0.7,329773.93,272459.22,4/8/2020
+82942 Church Street,"Lexington, KY",745,reid,petersen,"1,999",186,0.3,294402.23,285658.48,11/30/2020
+77967 Park Drive,"Louieville, KY",693,samara,roy,"5,070",471,0.4,612509.63,588560.51,4/23/2020
+44086 Highland Avenue,"Lexington, KY",778,skyler,owen,"7,803",725,0.2,1112964.02,1049747.67,10/7/2020
+20774 Evergreen Lane,"Louieville, KY",541,taniya,mora,"2,712",252,0.5,326696.3,300103.22,5/19/2020
+32588 Valley Road,"Louieville, KY",673,samara,mason,"1,318",122,0.6,238451.85,230821.39,3/17/2020
+40539 Woodland Drive,"Florence, KY",599,kamari,stewart,"1,795",167,0.4,208210.77,185078.55,5/13/2020
+91505 Williams Street,"Jeffersontown, KY",267,triston,mcdonald,"1,104",103,1,205177.28,183674.7,12/6/2020
+34024 High Street,"Covington, KY",163,anderson,hodge,"1,573",146,0.2,223012.3,190296.4,1/8/2020
+13313 Vine Street,"Louieville, KY",62,mohamed,george,"2,066",192,0.9,321517.67,258628.81,9/19/2020
+19699 Route 202,"Georgetown, KY",232,taniya,munoz,"1,525",142,0.5,236673.71,204202.07,10/25/2020
+90809 Pearl Street,"Covington, KY",109,mekhi,mason,"1,166",108,0.3,134901.94,120197.63,4/28/2020
+16008 Spruce Street,"Jeffersontown, KY",553,esperanza,hutchinson,"2,552",237,0.6,388470.33,379302.43,2/9/2020
+92623 Wall Street,"Covington, KY",81,josue,hanson,"2,101",195,0.9,327451.55,276925.77,8/13/2020
+53617 Broadway,"Jeffersontown, KY",613,dakota,galloway,"1,163",108,0.1,139956.33,118151.13,3/30/2020
+62450 Edgewood Drive,"Lexington, KY",238,kamari,bernard,"1,028",96,0.3,168452.46,150023.76,1/13/2020
+94291 Broad Street,"Jeffersontown, KY",317,dax,skinner,"1,411",131,18.5,1183371,1075802.58,8/15/2020
+13339 Maiden Lane,"Louieville, KY",233,thalia,carrillo,"2,788",259,0.8,338262.45,331767.81,4/1/2020
+86961 Ivy Lane,"Richmond, KY",38,dakota,gibbs,"3,979",370,0.3,491858.55,466527.83,10/28/2020
+75208 Linden Avenue,"Louieville, KY",595,josue,lucero,"7,506",697,0.7,822782.28,662997.96,11/1/2020
+41210 Oak Avenue,"Jeffersontown, KY",769,fisher,boyd,"1,888",175,0.8,339416,326586.08,3/4/2020
+80156 Jefferson Street,"Nicholasville, KY",729,mohamed,mora,"2,569",239,0.1,371139.99,343378.72,3/30/2020
+20831 Charles Street,"Lexington, KY",85,skyler,petersen,"1,342",125,0.3,192015.02,161196.61,3/14/2020
+69228 School Street,"Richmond, KY",228,denisse,carrillo,"2,825",262,0.4,343178.63,302855.14,10/13/2020
+37822 Route 17,"Georgetown, KY",465,efrain,copeland,"2,151",200,0.4,343239.75,276891.5,2/2/2020
+73405 Bayberry Drive,"Georgetown, KY",379,dakota,lucero,"9,993",928,0.3,1275068.63,1026430.24,8/10/2020
+85304 Windsor Drive,"Jeffersontown, KY",141,dakota,petersen,"1,965",183,0.4,238920.84,201983.68,7/9/2020
+64193 Liberty Street,"Lexington, KY",225,mekhi,bernard,"2,801",260,17.7,1448315.82,1185301.67,2/3/2020
+57384 Canterbury Road,"Louieville, KY",316,thalia,mora,"2,188",203,0.2,311096.33,261756.45,10/17/2020
+88135 Aspen Court,"St. Matthews, KY",654,abram,carrillo,"2,239",208,0.9,305885.45,303438.36,9/17/2020
+53057 Morris Street,"Jeffersontown, KY",96,brylee,lucero,"1,706",158,0.9,297069.79,271462.38,9/11/2020
+24535 Ashley Court,"Jeffersontown, KY",128,mohamed,skinner,"1,139",106,0.8,200617.66,191910.85,3/24/2020
+74215 5th Street,"St. Matthews, KY",794,efrain,mcdonald,"2,063",192,22.5,2038660.72,1983413.02,5/8/2020
+70429 Poplar Street,"Erlanger, KY",390,pamela,coleman,"2,076",193,0.2,303042.96,257434.99,6/12/2020
+24825 Arlington Avenue,"St. Matthews, KY",603,carly,roy,"5,226",486,0.5,593214.65,541071.08,6/9/2020
+62315 1st Avenue,"Jeffersontown, KY",449,denisse,gibbs,"2,740",255,0.2,371070.9,339010.37,3/31/2020
+51133 Harrison Street,"Jeffersontown, KY",120,triston,vang,"2,407",224,0.8,379703.75,364971.24,2/15/2020
+34722 Depot Street,"Florence, KY",686,esperanza,copeland,"1,230",114,0.3,200510.1,161911.91,9/9/2020
+94358 Warren Street,"Louieville, KY",459,savion,carrillo,"1,902",177,9,697461.31,648918,4/4/2020
+17215 Augusta Drive,"Jeffersontown, KY",494,dax,galloway,"1,962",182,2.7,365178.4,322342.98,12/11/2020
+18392 Queen Street,"Louieville, KY",126,samara,hanson,"2,585",240,0.9,377364.4,337590.19,6/17/2020
+67626 Heritage Drive,"Richmond, KY",415,jaliyah,boyd,"1,801",167,0.2,251583.41,227179.82,1/30/2020
+93018 Ivy Court,"St. Matthews, KY",387,esperanza,vang,"2,865",266,0.9,440165.39,389062.18,2/25/2020
+98546 King Street,"Erlanger, KY",115,abram,stevenson,"1,952",181,0.7,326814.88,310964.36,1/15/2020
+60313 Holly Court,"Lexington, KY",63,josue,mason,"1,553",144,1,298337.85,253467.84,2/25/2020
+48980 Durham Road,"Louieville, KY",627,mekhi,stevenson,"2,318",215,0.3,346605.28,335097.98,9/29/2020
+58996 Harrison Avenue,"Louieville, KY",343,fisher,coleman,"6,822",634,0.6,898257.28,808341.72,5/5/2020
+17062 Route 9,"Lexington, KY",259,carly,george,"4,939",459,0.8,797145.48,763984.23,11/18/2020
+69430 Route 27,"Louieville, KY",701,reid,mcdonald,"7,477",695,0.4,1083739.25,1032261.63,3/6/2020
+67516 East Street,"Richmond, KY",555,dax,roy,"5,924",550,0.5,916335.81,880232.18,4/29/2020
+14559 Brook Lane,"Covington, KY",605,esperanza,briggs,"2,539",236,0.6,288349.66,267963.34,6/20/2020
+56476 Cambridge Road,"Florence, KY",135,leandro,peters,"2,272",211,0.4,276559.36,266160.73,3/19/2020
+56576 Roberts Road,"Louieville, KY",746,efrain,peters,"2,622",244,29.6,2624476.42,2190388.02,10/29/2020
+38070 Union Street,"Florence, KY",384,denisse,peters,"2,918",271,0.3,455340.6,371375.79,6/20/2020
+27197 Main Street North,"Florence, KY",204,mekhi,hanson,"1,934",180,0.3,260720.12,257408.98,1/12/2020
+14563 Locust Street,"Georgetown, KY",1,samara,briggs,"2,130",198,28.6,2076061.15,1865756.16,7/3/2020
+68272 Henry Street,"Florence, KY",263,taniya,roy,"1,027",95,0.4,132961.5,128321.14,7/30/2020
+15148 Shady Lane,"Florence, KY",249,salma,peters,"2,367",220,0.8,340072.1,275390.39,8/18/2020
+53463 Beechwood Drive,"Lexington, KY",130,thalia,stevenson,"2,860",266,1,475935.55,436813.65,7/13/2020
+53834 Atlantic Avenue,"Louieville, KY",333,denisse,mcdonald,"2,516",234,0.6,377259.72,314295.08,4/29/2020
+11069 Belmont Avenue,"Nicholasville, KY",24,josue,carrillo,"1,954",182,0.2,306562.05,292950.69,11/5/2020
+26255 Street Road,"Louieville, KY",484,denisse,mason,"1,465",136,0.7,269343.24,239284.54,12/20/2020
+57018 Bay Street,"Jeffersontown, KY",460,skyler,bernard,"2,309",215,1,336718.8,288433.32,3/13/2020
+28422 Magnolia Drive,"Florence, KY",519,carly,hanson,"2,549",237,27.3,1813999.88,1602306.09,10/27/2020
+24776 Jefferson Avenue,"Georgetown, KY",417,esperanza,coleman,"1,189",110,26,2162749.85,2056126.28,5/2/2020
+99448 Route 30,"Frankfort, KY",598,dakota,banks,"2,515",234,3,529531.37,502842.99,8/4/2020
+40464 State Street East,"Lexington, KY",568,brylee,skinner,"2,760",256,0.1,326302.92,302743.85,9/20/2020
+89811 Durham Court,"Frankfort, KY",458,esperanza,hanson,"1,095",102,0.4,175005.39,146199.51,6/3/2020
+89296 Devon Court,"Lexington, KY",119,taniya,carrillo,"2,500",232,26.4,2265672.46,1919024.58,12/5/2020
+86128 Canterbury Drive,"Florence, KY",191,reid,gibbs,"4,391",408,0.7,528073.84,435924.95,2/16/2020
+44008 Adams Avenue,"Louieville, KY",560,mohamed,stewart,"2,024",188,0.8,273922.7,234751.75,5/21/2020
+59104 Virginia Avenue,"Louieville, KY",305,ryland,peters,"3,260",303,1,423877.2,342959.04,8/20/2020
+91870 Rose Street,"St. Matthews, KY",16,esperanza,petersen,"1,854",172,0.6,261895.53,216639.98,4/22/2020
+69118 Summer Street,"Jeffersontown, KY",737,dax,hutchinson,"2,966",276,0.8,399702.86,390030.05,1/5/2020
+33550 Academy Street,"Florence, KY",747,anderson,george,"1,978",184,0.9,343395.64,338141.69,1/1/2020
+48826 Garden Street,"Richmond, KY",500,jaliyah,roy,"2,499",232,0.2,393383.37,329694.6,3/31/2020
+84719 Homestead Drive,"St. Matthews, KY",430,savion,skinner,"9,470",880,0.7,1100518.21,911119.02,3/27/2020
+44598 Euclid Avenue,"St. Matthews, KY",144,pamela,stewart,"7,970",740,0.6,846464.44,764442.03,1/10/2020
+51123 Riverside Drive,"Louieville, KY",273,triston,gibbs,"1,926",179,0.2,227524.66,207138.45,8/22/2020
+92112 White Street,"Louieville, KY",602,taniya,owen,"2,283",212,0.3,299284.32,263968.77,2/29/2020
+19706 Virginia Street,"Florence, KY",581,salma,owen,"2,606",242,0.9,409261.33,354952.35,3/18/2020
+61306 B Street,"Florence, KY",325,thalia,petersen,"2,827",263,0.5,397000.16,395412.16,2/21/2020
+12555 Franklin Court,"Frankfort, KY",510,salma,mason,"1,124",104,0.6,196374.11,194508.55,10/31/2020
+16677 Creekside Drive,"Lexington, KY",438,abram,vincent,"2,967",276,0.4,416760.38,398006.17,9/14/2020
+10897 Elm Avenue,"Covington, KY",370,abram,hutchinson,"1,916",178,0.6,247684.65,210482.42,9/26/2020
+56259 4th Street West,"Louieville, KY",463,shyanne,boyd,"2,529",235,0.8,331608.33,313767.8,6/3/2020
+61839 14th Street,"Georgetown, KY",647,fisher,peters,"1,261",117,0.2,143139.92,139160.63,4/14/2020
+53323 Heather Lane,"Covington, KY",78,brylee,coleman,"1,424",132,0.3,205434.67,183329.9,2/3/2020
+26383 Route 32,"Georgetown, KY",340,mekhi,vang,"2,865",266,0.2,306391.18,283350.56,6/11/2020
+58746 Amherst Street,"Frankfort, KY",303,esperanza,peters,"2,189",203,0.6,366447.93,341053.09,7/30/2020
+42020 Route 11,"Georgetown, KY",572,jaliyah,vang,"6,641",617,0.6,756109.54,703786.76,9/25/2020
+69424 Devon Road,"Erlanger, KY",789,triston,petersen,"2,064",192,0.4,337028.19,321760.81,8/2/2020
+45665 Garfield Avenue,"Florence, KY",268,savion,galloway,"2,284",212,0.8,400255.7,380763.25,10/31/2020
+86771 8th Street South,"Erlanger, KY",431,dax,casey,"1,444",134,0.3,237716.04,199253.58,10/31/2020
+14140 College Street,"St. Matthews, KY",385,anderson,vincent,"2,910",270,0.1,316084.13,270884.1,11/11/2020
+62733 Hickory Street,"Louieville, KY",511,brylee,gibbs,"1,396",130,0.7,201433.57,161368.43,6/28/2020
+76683 Route 64,"Florence, KY",197,triston,ray,"1,535",143,0.3,236514.63,214305.91,11/10/2020
+22215 Brookside Drive,"Louieville, KY",502,skyler,stewart,"2,071",192,0.2,287016.25,282280.48,5/27/2020
+33474 State Street,"Erlanger, KY",131,savion,hanson,"4,468",415,1,542293.88,485624.17,4/20/2020
+49029 Eagle Street,"Louieville, KY",213,shyanne,mcdonald,"8,545",794,0.5,889193.15,872920.92,11/19/2020
+70472 Cleveland Avenue,"St. Matthews, KY",689,savion,owen,"1,140",106,0.7,185455.69,153186.4,5/29/2020
+55084 Ridge Street,"St. Matthews, KY",562,efrain,carrillo,"3,533",328,0.7,399783.28,335298.23,1/13/2020
+68716 Holly Drive,"St. Matthews, KY",4,kamari,gibbs,"6,847",636,0.9,821727.38,719915.35,2/1/2020
+15173 Hamilton Street,"Frankfort, KY",777,reid,stevenson,"1,724",160,0.7,268857.53,235062.14,12/22/2020
+61840 Lafayette Avenue,"Georgetown, KY",113,josue,coleman,"2,645",246,0.5,421453.9,376274.04,11/13/2020
+67130 Cedar Court,"Louieville, KY",524,salma,stevenson,"1,406",131,13,868657.64,803768.91,4/1/2020
+72134 Circle Drive,"Louieville, KY",322,beckham,skinner,"2,679",249,0.7,415291.36,393239.38,7/12/2020
+75319 Hillside Drive,"Louieville, KY",662,fisher,casey,"6,338",589,0.6,669776.45,591144.69,4/4/2020
+69565 Jackson Avenue,"Covington, KY",176,efrain,briggs,"1,917",178,0.5,248622.6,233307.45,8/31/2020
+18487 Bridle Court,"Covington, KY",15,salma,munoz,"1,773",165,0.4,213813.13,213043.4,10/25/2020
+23942 Colonial Avenue,"Florence, KY",42,dakota,hodge,"1,189",110,0.7,202690.96,189657.93,12/28/2020
+42332 Woodland Avenue,"Erlanger, KY",702,esperanza,roy,"1,053",98,0.8,185429.26,166478.39,3/31/2020
+32199 York Road,"St. Matthews, KY",652,mekhi,hutchinson,"2,596",241,0.7,352966.36,310645.7,11/17/2020
+14044 Madison Court,"Jeffersontown, KY",388,salma,mcdonald,"2,434",226,0.7,351059.85,288887.15,11/22/2020
+68748 Church Street South,"Florence, KY",183,laila,lucero,"1,271",118,1,223918.15,215969.05,9/10/2020
+10426 Route 29,"Louieville, KY",177,leandro,mora,"2,589",241,0.7,363242.05,314240.69,12/7/2020
+53845 Smith Street,"Florence, KY",167,leandro,mcdonald,"2,663",247,0.7,356336.4,332034.26,9/26/2020
+37721 Forest Street,"Lexington, KY",798,dax,gibbs,"2,656",247,0.2,360635.94,353026.52,12/7/2020
+10700 Lexington Court,"Louieville, KY",601,jaliyah,george,"1,099",102,0.5,138147.7,125120.37,3/28/2020
+99334 Somerset Drive,"Georgetown, KY",733,beckham,stevenson,"7,777",723,0.2,995574.11,860176.03,11/19/2020
+12532 Railroad Street,"Richmond, KY",405,esperanza,owen,"2,893",269,0.5,438283.8,395507.3,5/25/2020
+86071 Ridge Avenue,"Lexington, KY",299,dax,ray,"1,372",127,0.6,249319.22,203494.35,5/18/2020
+90096 Beech Street,"Jeffersontown, KY",362,mekhi,munoz,"1,539",143,0.5,226932.35,194344.87,3/15/2020
+70381 South Street,"Louieville, KY",665,leandro,briggs,"1,424",132,0.4,238387.69,227803.27,7/11/2020
+63723 Hill Street,"Jeffersontown, KY",771,efrain,vang,"2,916",271,0.2,315297.47,286195.51,3/20/2020
+98987 Cobblestone Court,"Covington, KY",93,leandro,gibbs,"1,871",174,0.6,254493.22,249683.3,6/2/2020
+96366 4th Street South,"Louieville, KY",749,dakota,skinner,"1,598",148,0.9,233666.46,189316.57,7/3/2020
+71070 Oak Lane,"Richmond, KY",575,reid,skinner,"2,771",257,0.1,385979.92,325689.85,7/11/2020
+27186 13th Street,"Louieville, KY",184,thalia,roy,"1,852",172,0.4,269232.54,242793.9,8/5/2020
+89569 Fawn Lane,"Erlanger, KY",567,esperanza,stevenson,"2,798",260,0.1,307117.62,303247.94,6/11/2020
+53853 Sycamore Lane,"Erlanger, KY",227,brylee,briggs,"8,698",808,0.4,1281629.5,1279578.89,11/12/2020
+26120 Deerfield Drive,"Lexington, KY",406,beckham,carrillo,"2,663",247,0.5,304837.63,284626.89,11/16/2020
+76370 Fawn Court,"Louieville, KY",657,josue,george,"2,597",241,0.8,363670.29,363342.99,10/2/2020
+58889 Lake Street,"Erlanger, KY",72,dakota,stevenson,"2,074",193,0.3,310786.34,259693.07,1/21/2020
+55286 Cleveland Street,"Florence, KY",13,brylee,copeland,"3,228",300,0.2,490878.29,393095.33,8/31/2020
+31536 Walnut Street,"Jeffersontown, KY",639,mekhi,coleman,"2,420",225,0.8,343176.83,277938.91,8/7/2020
+29051 Westminster Drive,"Louieville, KY",439,laila,hutchinson,"1,707",159,0.9,253878.64,253624.76,6/1/2020
+27065 Walnut Avenue,"Louieville, KY",427,beckham,boyd,"4,738",440,0.9,674051.35,606241.78,5/29/2020
+58351 Sherwood Drive,"Florence, KY",155,laila,vincent,"3,643",338,17.4,1342330.48,1178163.47,11/21/2020
+17799 West Street,"Georgetown, KY",156,shyanne,roy,"2,162",201,0.3,245919.17,236869.34,10/24/2020
+94869 Orchard Avenue,"Louieville, KY",403,beckham,gibbs,"1,495",139,8,766118.06,739533.77,9/22/2020
+91814 2nd Street East,"St. Matthews, KY",649,reid,mora,"2,868",266,0.4,364930.34,337889,4/5/2020
+43997 York Street,"Florence, KY",75,kamari,vincent,"1,448",135,0.5,225836.94,200769.04,3/22/2020
+64894 Front Street,"Louieville, KY",715,leandro,ray,"2,497",232,0.5,364661.71,340375.24,11/1/2020
+55357 Maple Lane,"Georgetown, KY",192,savion,petersen,"5,118",475,0.7,581144.1,542556.13,3/8/2020
+93988 East Avenue,"Louieville, KY",709,fisher,carrillo,"2,526",235,0.5,359927.73,341463.43,1/30/2020
+78539 Primrose Lane,"Louieville, KY",728,jaliyah,gibbs,"2,957",275,5.8,806429.26,692642.09,10/21/2020
+86819 Laurel Drive,"Erlanger, KY",503,taniya,coleman,"1,276",119,0.7,184547.52,155610.47,3/21/2020
+88391 Mulberry Street,"Lexington, KY",35,denisse,lucero,"1,665",155,0.8,266654.14,251161.53,4/9/2020
+43597 Cooper Street,"Erlanger, KY",127,dax,carrillo,"1,090",101,0.8,179575.94,153393.76,4/20/2020
+46237 Lantern Lane,"Florence, KY",139,josue,gibbs,"7,313",679,0.7,1065316.72,999906.27,10/12/2020
+46631 Route 2,"St. Matthews, KY",365,abram,owen,"9,939",923,0.6,1479501.65,1421209.29,4/11/2020
+88343 Essex Court,"Covington, KY",515,efrain,combs,"1,073",100,0.6,191663.26,163948.75,12/26/2020
+91137 Route 7,"Louieville, KY",793,mekhi,petersen,"1,304",121,0.2,191709.44,158294.48,5/14/2020
+16167 Chestnut Avenue,"St. Matthews, KY",780,leandro,copeland,"2,119",197,0.9,322328.77,264728.62,12/11/2020
+51207 Bridle Lane,"Lexington, KY",394,skyler,george,"2,683",249,0.9,409188.35,384064.19,9/3/2020
+57209 Buckingham Drive,"Covington, KY",314,laila,vang,"1,603",149,0.9,257344.95,256109.7,10/16/2020
+62772 Main Street East,"Lexington, KY",528,denisse,george,"2,687",250,0.8,407019.59,386831.42,3/22/2020
+63119 Forest Avenue,"Florence, KY",512,beckham,munoz,"2,450",228,0.9,425513.26,373302.78,1/24/2020
+26841 Chapel Street,"Lexington, KY",351,brylee,carrillo,"2,533",235,0.5,403902.23,378456.38,10/7/2020
+17770 Victoria Court,"St. Matthews, KY",383,skyler,vang,"4,608",428,0.2,478979.04,416424.38,8/13/2020
+84964 Tanglewood Drive,"Jeffersontown, KY",473,fisher,gibbs,"1,414",131,0.1,193009.39,179325.02,7/15/2020
+51843 Park Avenue,"Louieville, KY",565,reid,coleman,"1,615",150,0.4,230647.98,225965.82,9/20/2020
+43262 Jefferson Court,"Louieville, KY",354,beckham,ray,"9,190",854,0.1,1275281.37,1211262.24,12/11/2020
+92092 Franklin Street,"Jeffersontown, KY",272,efrain,munoz,"1,580",147,0.2,197487.58,174184.05,7/16/2020
+86307 Madison Street,"Florence, KY",400,savion,vang,"2,682",249,0.8,336112.88,297896.84,12/5/2020
+31595 4th Street North,"Erlanger, KY",364,brylee,banks,"1,306",121,0.1,170712.08,141059.39,2/17/2020
+17331 Cambridge Drive,"Jeffersontown, KY",584,brylee,vincent,"1,415",131,0.7,217740.75,216260.11,9/13/2020
+41897 Washington Street,"Covington, KY",329,brylee,vang,"2,213",206,7.1,655961.67,619555.79,9/16/2020
+69873 Hilltop Road,"Georgetown, KY",261,thalia,bernard,"3,288",305,0.1,370295.17,353150.51,1/10/2020
+92624 9th Street West,"Covington, KY",437,pamela,combs,"4,924",457,1,664380.98,645113.93,5/21/2020
+97362 6th Avenue,"Jeffersontown, KY",752,kamari,peters,"2,643",246,0.6,374791.65,331203.38,6/19/2020
+91689 Mill Street,"Jeffersontown, KY",457,taniya,mcdonald,"1,867",173,0.9,327588.46,266591.49,8/8/2020
+66720 Willow Lane,"Louieville, KY",448,taniya,hodge,"2,579",240,4.7,722629.85,617848.52,2/28/2020
+20820 Parker Street,"St. Matthews, KY",429,efrain,galloway,"1,130",105,0.3,167289.56,136792.67,8/23/2020
+15248 Fieldstone Drive,"Florence, KY",671,salma,coleman,"9,542",886,0.5,1432732.76,1224843.23,11/27/2020
+50797 Railroad Avenue,"Florence, KY",538,laila,hodge,"2,156",200,0.5,264685.83,236073.29,9/9/2020
+75504 Forest Drive,"Jeffersontown, KY",230,abram,lucero,"1,595",148,0.9,304513.74,259110.74,2/2/2020
+22679 Sheffield Drive,"Louieville, KY",505,beckham,casey,"2,460",229,0.5,321971.73,279761.23,11/7/2020
+27355 Cedar Street,"Erlanger, KY",474,denisse,stewart,"1,037",96,0.3,121718.44,116423.68,7/4/2020
+68477 Old York Road,"Florence, KY",593,nadia,briggs,"4,344",404,0.3,452648,370175.53,7/22/2020
+37674 Windsor Court,"Frankfort, KY",629,skyler,ray,"2,971",276,0.6,472306.76,444110.04,11/4/2020
+62747 Route 44,"Lexington, KY",407,fisher,mora,"1,340",124,0.7,232207.51,223731.94,2/16/2020
+61866 4th Street,"Jeffersontown, KY",254,samara,coleman,"2,598",241,0.7,329027.81,305601.03,12/24/2020
+42347 6th Street West,"Erlanger, KY",712,dax,boyd,"1,872",174,0.9,302100.54,279624.26,2/17/2020
+18940 Canterbury Court,"Covington, KY",297,samara,combs,"1,355",126,0.3,178536.47,158665.36,9/22/2020
+83895 11th Street,"St. Matthews, KY",534,taniya,briggs,"2,123",197,1,294238.71,246601.46,11/5/2020
+17842 Mill Road,"Covington, KY",678,carly,boyd,"3,608",335,0.4,411701.5,330555.13,4/16/2020
+12538 West Avenue,"Louieville, KY",360,denisse,petersen,"2,041",190,0.6,280932.65,257896.17,1/23/2020
+41587 Fairview Avenue,"St. Matthews, KY",645,carly,mora,"2,654",247,0.9,427895.58,388914.29,6/14/2020
+73054 Brown Street,"Florence, KY",327,triston,boyd,"2,407",224,0.9,364051.04,355750.68,8/18/2020
+71400 Route 41,"Louieville, KY",375,esperanza,boyd,"1,292",120,26.1,1690015.85,1378714.93,12/29/2020
+52376 Canal Street,"Covington, KY",732,samara,george,"1,100",102,23.9,1798993.87,1594987.97,3/22/2020
+82046 Sycamore Drive,"Erlanger, KY",39,ryland,petersen,"2,606",242,0.2,393670.26,333596.17,2/16/2020
+60984 Andover Court,"Georgetown, KY",257,josue,combs,"2,175",202,0.5,250946.32,206202.59,8/31/2020
+37249 Cherry Lane,"Louieville, KY",269,shyanne,munoz,"1,868",174,0.6,282190.52,226824.74,9/19/2020
+53656 Valley Drive,"Lexington, KY",436,laila,mcdonald,"1,063",99,0.8,214033.05,179530.92,6/26/2020
+48822 College Avenue,"Jeffersontown, KY",94,mohamed,coleman,"1,011",94,0.2,112482.62,99490.88,5/26/2020
+20977 8th Street,"Florence, KY",475,thalia,galloway,"2,746",255,0.4,355826.97,305619.78,8/20/2020
+92187 Elizabeth Street,"Covington, KY",478,savion,combs,"2,581",240,0.2,300983.18,287318.55,2/21/2020
+76519 Roosevelt Avenue,"Georgetown, KY",46,brylee,peters,"2,234",208,0.3,323213.8,282973.68,2/28/2020
+70835 Park Street,"Erlanger, KY",323,carly,peters,"2,236",208,0.6,342714.4,287057.58,11/25/2020
+36317 Orchard Lane,"Covington, KY",243,mekhi,skinner,"1,720",160,0.5,274738.13,223004.94,6/15/2020
+55456 Sunset Drive,"Florence, KY",377,josue,vincent,"1,584",147,8.3,834070.53,781774.31,1/6/2020
+32680 Evergreen Drive,"Richmond, KY",234,shyanne,lucero,"2,061",191,2.5,458083.24,454601.8,1/5/2020
+63055 Hawthorne Avenue,"Louieville, KY",711,thalia,banks,"2,784",259,0.5,450621.08,398078.66,7/25/2020
+78066 Fairway Drive,"Louieville, KY",70,samara,stevenson,"1,712",159,0.8,218440.97,211145.04,5/29/2020
+82215 Lafayette Street,"Florence, KY",347,mohamed,gibbs,"2,832",263,0.5,315331.38,299217.95,3/15/2020
+16297 Dogwood Drive,"Florence, KY",27,carly,petersen,"2,965",275,0.7,427465.26,380401.33,8/16/2020
+67496 Lilac Lane,"Jeffersontown, KY",509,laila,munoz,"1,984",184,0.3,281544.04,267889.15,12/10/2020
+13414 Strawberry Lane,"Frankfort, KY",748,triston,combs,"1,344",125,19.4,1228184.13,1032411.58,3/11/2020
+82912 7th Street,"Jeffersontown, KY",708,abram,briggs,"1,858",173,0.4,309947,283322.55,4/5/2020
+81905 5th Street North,"Covington, KY",724,fisher,bernard,"1,221",113,0.7,191375.19,156104.74,1/20/2020
+71435 Pleasant Street,"Louieville, KY",679,savion,vincent,"1,853",172,0.7,318300.68,272338.06,2/16/2020
+52957 Clark Street,"Louieville, KY",692,skyler,hutchinson,"1,010",94,0.1,155690.34,145383.64,12/19/2020
+81206 Pennsylvania Avenue,"Nicholasville, KY",342,esperanza,mora,"2,104",195,0.5,316509.48,310907.26,3/17/2020
+82256 9th Street,"Frankfort, KY",773,esperanza,munoz,"2,318",215,0.5,262741.42,228243.47,3/4/2020
+53477 Summit Street,"Georgetown, KY",722,carly,galloway,"2,202",205,0.2,284102.28,241543.76,9/10/2020
+20745 Elm Street,"Georgetown, KY",181,pamela,banks,"2,109",196,0.2,303343.5,299036.02,10/1/2020
+51569 Dogwood Lane,"Lexington, KY",687,taniya,bernard,"2,944",274,0.2,358030.88,326273.54,4/28/2020
+76257 Cottage Street,"Frankfort, KY",549,savion,stevenson,"2,923",272,0.8,466180.36,413641.83,3/21/2020
+18397 Locust Lane,"St. Matthews, KY",302,thalia,copeland,"1,805",168,0.2,191021.77,164355.13,12/26/2020
+73492 Spruce Avenue,"Nicholasville, KY",731,ryland,coleman,"8,336",774,0.2,1050272.03,922663.98,10/29/2020
+36404 Meadow Lane,"Louieville, KY",90,triston,stevenson,"1,918",178,0.3,207882.51,184682.82,2/18/2020
+88413 George Street,"Louieville, KY",660,mekhi,combs,"5,071",471,0.6,731159.58,715732.11,4/18/2020
+51334 Willow Street,"Lexington, KY",337,abram,petersen,"2,641",245,0.9,412687.89,332007.41,9/6/2020
+95572 Woodland Road,"Georgetown, KY",765,abram,coleman,"2,847",264,9.8,919289.07,867441.16,3/21/2020
+79547 Ridge Road,"Georgetown, KY",536,samara,petersen,"2,527",235,0.8,360229.22,290236.68,4/29/2020
+20643 Hudson Street,"Covington, KY",741,pamela,vang,"1,216",113,28.8,1823322.8,1542348.76,1/23/2020
+83976 5th Street West,"Lexington, KY",618,samara,galloway,"1,728",161,0.6,234859.63,201509.57,9/23/2020
+18158 Adams Street,"Jeffersontown, KY",304,jaliyah,hanson,"2,856",265,0.9,341879.47,336717.09,9/1/2020
+17889 Berkshire Drive,"Nicholasville, KY",557,denisse,owen,"1,538",143,20,1617054.3,1355576.62,1/11/2020
+43895 Franklin Avenue,"Louieville, KY",292,skyler,skinner,"2,152",200,0.8,291873.19,259504.45,12/9/2020
+91458 Hartford Road,"Nicholasville, KY",723,josue,owen,"1,866",173,0.4,250513.84,223207.83,2/2/2020
+39803 Cedar Avenue,"Florence, KY",231,laila,petersen,"1,635",152,0.7,228291.28,183683.16,11/18/2020
+13239 Schoolhouse Lane,"Jeffersontown, KY",28,laila,boyd,"1,290",120,0.4,153970.41,148627.64,9/4/2020
+40162 Water Street,"Louieville, KY",487,ryland,owen,"1,848",172,0.2,245209.21,204210.23,3/7/2020
+67163 Route 100,"Louieville, KY",378,dax,vincent,"2,335",217,0.9,290805.04,240931.98,11/24/2020
+58260 1st Street,"Frankfort, KY",33,taniya,petersen,"1,392",129,0.4,214341.12,178160.34,4/2/2020
+86696 Wood Street,"Erlanger, KY",240,salma,carrillo,"1,766",164,1,285521.45,270731.43,10/26/2020
+44598 Maple Street,"Lexington, KY",762,josue,bernard,"1,768",164,0.2,277787.9,232119.57,4/11/2020
+65198 Jones Street,"Louieville, KY",331,denisse,hodge,"2,342",218,0.7,391640.25,331288.49,6/25/2020
+60739 Valley View Road,"Frankfort, KY",151,samara,carrillo,"1,428",133,0.9,233820.3,211443.7,4/8/2020
+50831 Lake Avenue,"Georgetown, KY",496,shyanne,copeland,"8,744",812,0.7,1348996.65,1291664.3,5/31/2020
+76208 Linda Lane,"Florence, KY",787,denisse,bernard,"2,297",213,28.6,2134115.1,2111920.3,8/31/2020
+14143 Winding Way,"Jeffersontown, KY",625,shyanne,hodge,"1,162",108,0.5,147892.17,120310.28,1/4/2020
+41352 Catherine Street,"Covington, KY",486,jaliyah,mcdonald,"2,808",261,0.6,320412.9,304584.5,12/12/2020
+21520 Pheasant Run,"St. Matthews, KY",334,samara,mora,"2,168",201,0.3,267878.52,267798.16,1/4/2020
+83877 Fulton Street,"St. Matthews, KY",428,mekhi,roy,"3,363",312,0.6,411283.18,376077.34,3/28/2020
+19568 Hillcrest Drive,"Covington, KY",198,carly,combs,"1,019",95,0.2,135926.1,116135.26,10/3/2020
+53117 Olive Street,"Georgetown, KY",552,fisher,munoz,"2,614",243,28.7,1983320.96,1587251.77,8/2/2020
+96675 Mulberry Lane,"Covington, KY",612,taniya,skinner,"2,786",259,0.3,435300.04,388069.98,11/18/2020
+47006 2nd Street West,"Covington, KY",186,kamari,briggs,"7,315",680,0.9,1096488.1,988374.37,10/29/2020
+92797 Oxford Road,"Lexington, KY",670,dax,mcdonald,"2,607",242,0.6,373390.74,362002.32,10/27/2020
+13708 8th Avenue,"Richmond, KY",446,dakota,carrillo,"2,384",221,0.2,330161.52,291301.51,4/16/2020
+85982 Magnolia Court,"Jeffersontown, KY",318,thalia,george,"3,130",291,0.3,334439.1,281363.61,5/3/2020
+57385 Hickory Lane,"Florence, KY",106,fisher,mason,"2,645",246,0.6,350087.19,321765.14,1/6/2020
+21539 Bank Street,"Georgetown, KY",530,mohamed,galloway,"1,066",99,0.9,221055.32,190350.73,6/6/2020
+12472 Main Street,"Jeffersontown, KY",359,pamela,copeland,"7,202",669,0.6,815044.93,788637.48,4/10/2020
+29725 Green Street,"Lexington, KY",241,kamari,skinner,"2,970",276,0.2,430686.35,371208.57,11/11/2020
+97518 Buttonwood Drive,"Louieville, KY",125,mohamed,munoz,"2,437",226,0.3,297325.34,255818.72,9/21/2020
+53833 Lincoln Avenue,"Lexington, KY",256,kamari,combs,"1,629",151,0.9,217585.12,203529.13,5/7/2020
+20682 Penn Street,"St. Matthews, KY",296,reid,hutchinson,"1,093",102,0.6,190204.5,160095.12,1/11/2020
+20007 Meadow Street,"Louieville, KY",650,pamela,vincent,"1,505",140,0.7,236934.58,227291.34,5/10/2020
+91131 Cambridge Court,"St. Matthews, KY",389,leandro,boyd,"2,463",229,0.8,369661.06,302863.3,2/18/2020
+22463 Creek Road,"Covington, KY",103,thalia,coleman,"1,619",150,0.2,236007.93,190505.6,2/17/2020
+79457 Edgewood Road,"Covington, KY",165,mekhi,mcdonald,"2,675",249,0.8,328744.25,296264.32,6/2/2020
+74270 Myrtle Street,"Richmond, KY",772,shyanne,casey,"2,723",253,0.9,412362.4,408321.25,1/24/2020
+45515 2nd Street,"Covington, KY",663,savion,boyd,"1,219",113,0.2,185134.44,159234.13,1/21/2020
+22218 Washington Avenue,"Georgetown, KY",499,denisse,coleman,"2,303",214,0.9,300635.37,296516.67,6/3/2020
+66179 Myrtle Avenue,"Frankfort, KY",196,brylee,hodge,"2,877",267,0.8,447736.14,386082.87,7/10/2020
+59726 2nd Street North,"Louieville, KY",744,kamari,george,"1,331",124,0.3,154361.64,138431.52,4/16/2020
+32928 Country Club Drive,"Louieville, KY",607,nadia,boyd,"1,344",125,0.8,240185.4,197696.6,2/4/2020
+64265 Church Road,"Covington, KY",695,laila,stevenson,"2,457",228,0.8,298132.33,274937.63,2/12/2020
+26680 Cypress Court,"Louieville, KY",311,reid,bernard,"2,636",245,15.2,1295164.65,1198286.33,5/2/2020
+30846 Crescent Street,"Frankfort, KY",289,brylee,ray,"2,264",210,0.7,293957.37,282257.87,8/19/2020
+65696 New Street,"Lexington, KY",2,kamari,vang,"2,305",214,1,349056.66,325984.01,3/17/2020
+75107 5th Street South,"Lexington, KY",40,shyanne,bernard,"2,380",221,0.3,371299.41,352103.23,3/25/2020
+37102 Cedar Lane,"Louieville, KY",277,leandro,stewart,"3,000",279,0.9,470237.2,434028.94,5/23/2020
+32996 Arch Street,"Florence, KY",307,esperanza,mason,"1,929",179,0.7,236517.16,226417.88,3/8/2020
+49024 Rosewood Drive,"Jeffersontown, KY",397,samara,munoz,"1,115",104,0.7,216642.91,185078.04,3/10/2020
+78080 Country Club Road,"Jeffersontown, KY",217,dax,combs,"2,696",250,0.2,342002.78,277706.26,5/18/2020
+13960 Broad Street West,"Frankfort, KY",260,abram,casey,"1,857",173,0.1,233225.31,232805.5,4/17/2020
+21951 Lexington Drive,"Richmond, KY",194,samara,owen,"7,197",669,0.3,928166.71,909510.56,2/5/2020
+25710 Delaware Avenue,"Louieville, KY",481,mohamed,ray,"1,312",122,0.1,201328.99,173485.19,12/12/2020
+19603 Inverness Drive,"Lexington, KY",574,abram,combs,"2,490",231,0.6,318911.96,290433.12,8/23/2020
+60279 Highland Drive,"Florence, KY",282,beckham,mcdonald,"4,772",443,0.7,674743.02,563747.79,10/16/2020
+98139 Sycamore Street,"Georgetown, KY",656,josue,hodge,"2,179",202,0.6,345163.62,311406.61,7/13/2020
+21249 6th Street North,"Jeffersontown, KY",361,pamela,owen,"5,438",505,0.4,750074,686917.77,7/15/2020
+61210 12th Street East,"Louieville, KY",279,salma,combs,"1,789",166,0.8,286329.76,283094.24,6/24/2020
+92287 Main Street South,"Georgetown, KY",548,savion,hodge,"2,967",276,0.6,350634.9,295059.27,12/9/2020
+81185 Oxford Court,"Lexington, KY",757,triston,bernard,"2,165",201,0.5,307521.6,285349.29,7/4/2020
+77456 Church Street North,"Lexington, KY",532,nadia,copeland,"2,672",248,0.9,380809.41,338158.76,11/10/2020
+81946 Orange Street,"Erlanger, KY",149,kamari,owen,"2,071",192,0.9,356937.3,329631.59,5/24/2020
+21011 Jackson Street,"Erlanger, KY",669,taniya,banks,"1,426",132,21.4,1380331.49,1319734.93,5/10/2020
+54812 Grant Street,"Florence, KY",791,kamari,hodge,"7,675",713,0.4,1184403.3,1121511.49,7/2/2020
+18597 Route 10,"Jeffersontown, KY",264,ryland,mora,"2,733",254,0.1,361030.84,295756.46,9/9/2020
+50732 12th Street,"St. Matthews, KY",619,denisse,banks,"2,306",214,0.8,324811.9,292817.93,8/2/2020
+15264 Lakeview Drive,"Nicholasville, KY",594,josue,mcdonald,"1,864",173,0.4,303142.08,263945.81,1/6/2020
+72851 William Street,"Florence, KY",636,efrain,vincent,"2,051",191,23.1,1566799.54,1488302.88,12/18/2020
+18073 Briarwood Drive,"Georgetown, KY",776,ryland,casey,"4,596",427,0.9,686358.58,618752.26,4/18/2020
+12642 Grove Avenue,"Covington, KY",350,pamela,carrillo,"2,336",217,0.7,292129.74,273579.5,12/3/2020
+98722 Eagle Road,"Georgetown, KY",108,esperanza,hodge,"2,622",244,0.1,396477.9,348464.43,11/5/2020
+15208 Monroe Street,"Louieville, KY",98,kamari,mason,"2,281",212,0.4,345473.2,343434.91,11/23/2020
+16986 Glenwood Drive,"Louieville, KY",137,thalia,skinner,"2,065",192,0.6,239093.09,192398.21,9/6/2020
+83419 River Street,"Louieville, KY",338,nadia,casey,"3,588",333,6.7,830511.77,669392.49,3/5/2020
+94019 Summit Avenue,"Erlanger, KY",237,reid,lucero,"1,349",125,0.6,244232.04,199073.53,9/13/2020
+65893 Division Street,"Jeffersontown, KY",207,pamela,peters,"2,652",246,26.1,1728646.9,1594676.77,7/10/2020
+94986 Colonial Drive,"Lexington, KY",7,reid,stewart,"2,069",192,0.2,266858.28,259839.9,11/24/2020
+64916 Cross Street,"Covington, KY",223,samara,boyd,"1,718",160,0.7,283071.58,280212.55,9/15/2020
+58236 Country Lane,"Louieville, KY",205,shyanne,stevenson,"2,715",252,1,331866.46,284741.43,7/3/2020
+32805 Madison Avenue,"Louieville, KY",367,josue,roy,"1,053",98,0.6,193338.58,156894.25,10/25/2020
+24872 8th Street West,"Georgetown, KY",105,shyanne,mora,"1,684",156,0.5,239023.12,210388.15,10/9/2020
+26251 Columbia Street,"Florence, KY",545,dax,copeland,"1,893",176,0.8,266263.58,242273.23,3/25/2020
+69086 Pin Oak Drive,"Louieville, KY",335,abram,ray,"1,699",158,0.7,299620.81,264774.91,4/20/2020
+41865 Valley View Drive,"Frankfort, KY",61,savion,coleman,"2,115",196,0.8,259696.09,237414.16,12/5/2020
+69398 7th Avenue,"Louieville, KY",483,savion,george,"2,148",200,1,322694.72,320629.48,5/5/2020
+63268 North Street,"Jeffersontown, KY",425,laila,combs,"1,614",150,0.5,205946.18,198696.87,8/19/2020
+87581 Sunset Avenue,"Covington, KY",10,samara,skinner,"2,484",231,0.1,363879.27,358093.59,9/6/2020
+93267 Center Street,"Jeffersontown, KY",622,laila,george,"3,933",365,0.1,408320.73,345316.84,2/18/2020
+18845 Bridge Street,"Frankfort, KY",540,dax,petersen,"8,660",805,0.2,968720.25,823605.96,7/27/2020
+27513 Glenwood Avenue,"Richmond, KY",770,dakota,bernard,"2,837",264,0.2,330872.28,290075.73,2/22/2020
+87390 Market Street,"Georgetown, KY",312,reid,boyd,"2,111",196,0.8,376407.17,316031.46,5/23/2020
+55890 Manor Drive,"Nicholasville, KY",344,fisher,vang,"1,189",110,0.2,155283,147829.41,10/19/2020
+72720 Warren Avenue,"Louieville, KY",621,mohamed,roy,"5,821",541,7.6,1403788.99,1146193.71,2/2/2020
+13639 Orchard Street,"Louieville, KY",719,laila,galloway,"2,784",259,0.5,419611.5,405974.13,7/23/2020
+49988 Mechanic Street,"Jeffersontown, KY",643,brylee,roy,"1,733",161,25.9,2115855.97,1796573.3,9/28/2020
+31063 Aspen Drive,"Richmond, KY",699,brylee,mora,"1,698",158,0.6,268635.27,264068.47,6/28/2020
+68179 3rd Street,"Lexington, KY",489,mekhi,carrillo,"2,800",260,0.8,444474.07,362913.08,1/25/2020
+29300 Howard Street,"Jeffersontown, KY",83,skyler,mason,"1,154",107,0.7,174504.94,141296.65,4/25/2020
+28500 Chestnut Street,"Florence, KY",278,kamari,hutchinson,"2,408",224,0.2,329622.75,282420.77,2/5/2020
+80643 Route 6,"Jeffersontown, KY",154,beckham,roy,"1,372",127,0.6,196464.4,191081.27,1/2/2020
+97812 Mulberry Court,"Lexington, KY",140,abram,mcdonald,"2,078",193,0.4,285747,271573.95,12/14/2020
+66791 Route 5,"Louieville, KY",546,skyler,copeland,"1,170",109,1,250598.79,215590.14,8/15/2020
+10723 Central Avenue,"Florence, KY",456,thalia,boyd,"2,968",276,0.6,445051.53,424178.62,5/27/2020
+94360 Taylor Street,"Covington, KY",203,dax,stewart,"2,748",255,15.3,1503090.37,1464911.87,1/1/2020
+51863 Main Street West,"Lexington, KY",720,skyler,casey,"2,660",247,1.5,373473.1,328768.37,5/4/2020
+67295 5th Avenue,"Erlanger, KY",424,dax,hodge,"1,564",145,13.5,1168075.2,1109437.82,1/2/2020
+61549 Prospect Avenue,"Covington, KY",472,savion,briggs,"1,529",142,0.5,198854.72,169662.85,6/29/2020
+14882 Clay Street,"Jeffersontown, KY",247,ryland,stewart,"2,401",223,11.9,1170818.25,1065093.36,5/22/2020
+30407 Hawthorne Lane,"St. Matthews, KY",739,anderson,bernard,"3,121",290,29.1,2423598.21,2034125.97,7/22/2020
+98400 Lawrence Street,"Jeffersontown, KY",651,kamari,galloway,"2,479",230,0.9,401448.55,332640.27,8/12/2020
+10180 Cherry Street,"Georgetown, KY",469,dax,briggs,"2,836",263,0.4,405047.37,397472.98,4/15/2020
+25228 2nd Avenue,"Louieville, KY",58,savion,hutchinson,"6,575",611,0.3,708821.56,593425.41,1/17/2020
+89985 Front Street South,"Louieville, KY",716,samara,vang,"1,032",96,11.5,1042965,1036290.02,8/5/2020
+77841 Oak Street,"Florence, KY",250,beckham,briggs,"1,512",140,0.7,231394.16,190344.84,6/27/2020
+45758 Monroe Drive,"Lexington, KY",782,laila,casey,"6,448",599,0.2,759892.8,621440.33,6/14/2020
+58474 6th Street,"St. Matthews, KY",374,beckham,lucero,"1,823",169,0.2,212180.01,181159.3,9/9/2020
+13849 Surrey Lane,"Covington, KY",174,reid,george,"2,800",260,0.9,425113,422307.25,3/20/2020
+65544 Grand Avenue,"Lexington, KY",386,triston,briggs,"2,632",245,0.3,401391.64,354910.49,10/1/2020
+92344 Redwood Drive,"Lexington, KY",152,kamari,lucero,"2,133",198,0.2,235213.2,196685.28,11/25/2020
+59377 Marshall Street,"Louieville, KY",210,taniya,hanson,"1,590",148,0.3,198522.76,168307.6,12/23/2020
+10030 Grant Avenue,"Nicholasville, KY",288,pamela,mora,"8,826",820,0.7,1363456.19,1110671.41,6/6/2020
+78844 Cardinal Drive,"Jeffersontown, KY",492,skyler,boyd,"5,494",510,0.5,721245.62,621569.47,1/12/2020
+98133 Carriage Drive,"Louieville, KY",84,mekhi,boyd,"1,684",156,0.5,229389.09,228930.31,4/27/2020
