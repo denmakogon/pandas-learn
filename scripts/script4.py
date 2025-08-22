@@ -45,3 +45,4 @@ df = manual_df.merge(manual_df2, how='inner', left_index=True, right_index=True)
 df.drop('count_of_while',axis = 1,inplace=True)
 
 print(df)
+
